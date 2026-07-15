@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+html {
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+    vertical-align: baseline;
+    text-decoration: none;
+    color: inherit;
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    -webkit-tap-highlight-color: transparent;
+    -moz-tap-highlight-color: transparent;
+    -webkit-user-drag: none;
+    user-select: none;
+}
