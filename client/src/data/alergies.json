@@ -1,0 +1,81 @@
+{
+    "Alergies" : [
+        {
+            "translations-tittle" : {
+                "it" : "Alergie",
+                "en" : "Allergies",
+                "pt" : "Alergias"
+            },
+            "1": {
+                "it" : "Cereali contenenti glutine e prodotti derivati grano, segale, orzo, avena, farro kamut",
+                "en" : "Cereals containing gluten and derived products: wheat, rye, barley, oats, spelt, kamut",
+                "pt" : "Cereais que contêm glúten e produtos derivados: trigo, centeio, cevada, aveia, espelta, kamut"
+            },
+            "2": {
+                "it" : "Crostacei e prodotti a base di crostacei",
+                "en" : "Crustaceans and crustacean-based products",
+                "pt" : "Crustáceos e produtos à base de crustáceos"
+            },
+            "3": {
+                "it" : "Uova e prodotti a base di uova",
+                "en" : "Eggs and egg-based products",
+                "pt" : "Ovos e produtos à base de ovos"
+            },
+            "4": {
+                "it" : "Pesce e prodotti a base di pesced",
+                "en" : "Fish and fish-based products",
+                "pt" : "Peixe e produtos à base de peixe"
+            },
+            "5": {
+                "it" : "Arachidi e prodotti a base di arachidi",
+                "en" : "Peanuts and peanut-based products",
+                "pt" : "Amendoim e produtos à base de amendoim"
+            },
+            "6": {
+                "it" : "Soia e prodotti a base di soia",
+                "en" : "Soybeans and soy-based products",
+                "pt" : "Soja e produtos à base de soja"
+            },
+            "7": {
+                "it" : "Latte e prodotti a base di latte",
+                "en" : "Milk and milk-based products",
+                "pt" : "Leite e produtos à base de leite"
+            },
+            "8": {
+                "it" : "Sedano e prodotti a base di sedano",
+                "en" : "Celery and celery-based products",
+                "pt" : "Aipo e produtos à base de aipo"
+            },
+            "9": {
+                "it" : "Senape e prodotti a base di senape",
+                "en" : "Mustard and mustard-based products",
+                "pt" : "Mostarda e produtos à base de mostarda"
+            },
+            "10": {
+                "it" : "Solfiti in concentrazioni superiori a 10 mg/kg",
+                "en" : "Sulphites in concentrations greater than 10 mg/kg",
+                "pt" : "Sulfitos em concentrações superiores a 10 mg/kg"
+            },
+            "11": {
+                "it" : "Semi di sesamo e prodotti a base di sesamo",
+                "en" : "Sesame seeds and sesame-based products",
+                "pt" : "Sementes de gergelim e produtos à base de gergelim"
+            },
+            "12": {
+                "it" : "Lupini e prodotti a base di lupini",
+                "en" : "Lupin and lupin-based products",
+                "pt" : "Tremoço e produtos à base de tremoço"
+            },
+            "13": {
+                "it" : "Frutta guscio e loro prodotti mandorle, nocciole, noci. noci di acagiù,di lecan del Brasile, pistacchi, noci macadamia",
+                "en" : "Tree nuts and nut-based products: almonds, hazelnuts, walnuts, cashew nuts, Brazil nuts, pistachios, macadamia nuts",
+                "pt" : "Frutos de casca rija e seus produtos: amêndoas, avelãs, nozes, castanha de caju, castanha-do-pará, pistache, macadâmia"
+            },
+            "14": {
+                "it" : "Molluschi e prodotti a base di molluschi",
+                "en" : "Molluscs and mollusc-based products",
+                "pt" : "Moluscos e produtos à base de moluscos"
+            }
+        }
+    ]
+}

@@ -1,0 +1,415 @@
+:root {
+    --vine: #6E0E1F;
+    --vine-smooth: #8C1B2E;
+    --cream: #FBF4EC;
+    --white: #FFFFFF;
+    --coal: #2B211E;
+    --coal-smooth: #6B5C56;
+    --line: rgba(110, 14, 31, 0.20);
+}
+
+.menu-page {
+    --menu-max: 380px;
+
+    min-height: 100dvh;
+    max-width: var(--menu-max);
+    margin: 0 auto;
+    background: var(--cream);
+    color: var(--coal);
+    font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    padding: max(12px, env(safe-area-inset-top)) max(14px, env(safe-area-inset-right)) max(20px, env(safe-area-inset-bottom)) max(14px, env(safe-area-inset-left));
+}
+
+/* ── Sidebar ── */
+
+.menu-sidebar-wrapper {
+    display: flex;
+    min-height: min(460px, calc(100dvh - 72px));
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 14px;
+}
+
+.menu-sidebar {
+    width: 74%;
+    background: var(--white);
+    padding: 20px 16px;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-sidebar-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 18px;
+}
+
+.menu-sidebar-title {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 17px;
+    color: var(--vine);
+}
+
+.menu-sidebar-close {
+    all: unset;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+    color: var(--coal-smooth);
+}
+
+.menu-sidebar-close .ti {
+    font-size: 18px;
+    line-height: 1;
+}
+
+.menu-sidebar-close:focus-visible {
+    outline: 2px solid var(--vine);
+    outline-offset: 2px;
+    border-radius: 4px;
+}
+
+.menu-sidebar-nav {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    flex: 1;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.menu-sidebar-item {
+    all: unset;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 11px 4px;
+    border-bottom: 0.5px solid var(--line);
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+    color: var(--coal);
+    font-size: 14px;
+    line-height: 1.3;
+}
+
+.menu-sidebar-item .ti {
+    font-size: 18px;
+    color: var(--vine);
+    flex: 0 0 auto;
+}
+
+.menu-sidebar-item span {
+    min-width: 0;
+}
+
+.menu-sidebar-item--active {
+    background: var(--cream);
+    border-radius: 8px;
+    margin: 2px -4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-weight: 500;
+}
+
+.menu-sidebar-item:focus-visible {
+    outline: 2px solid var(--vine);
+    outline-offset: 1px;
+    border-radius: 8px;
+}
+
+.menu-sidebar-allergies {
+    all: unset;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 12px 14px;
+    margin-top: 14px;
+    background: var(--vine);
+    border-radius: 8px;
+    cursor: pointer;
+    width: 100%;
+    color: #fff;
+}
+
+.menu-sidebar-allergies-label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.menu-sidebar-allergies-label .ti {
+    font-size: 18px;
+    color: #fff;
+}
+
+.menu-sidebar-allergies > .ti-chevron-right {
+    font-size: 16px;
+    color: #fff;
+    flex: 0 0 auto;
+}
+
+.menu-sidebar-allergies:focus-visible {
+    outline: 2px solid var(--white);
+    outline-offset: 2px;
+}
+
+.menu-sidebar-backdrop {
+    all: unset;
+    box-sizing: border-box;
+    flex: 1;
+    cursor: pointer;
+    background: rgba(43, 33, 30, 0.5);
+}
+
+/* ── Main ── */
+
+.menu-main {
+    background: var(--cream);
+    border-radius: 12px;
+    padding: 16px;
+}
+
+.menu-category + .menu-category {
+    margin-top: 28px;
+}
+
+.menu-category-title {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 19px;
+    color: var(--vine);
+    margin: 0 0 14px;
+    border-bottom: 0.5px solid var(--line);
+    padding-bottom: 10px;
+}
+
+.menu-category-dishes {
+    display: flex;
+    flex-direction: column;
+}
+
+/* ── Dish card ── */
+
+.menu-dish {
+    display: flex;
+    gap: 14px;
+    padding: 20px 0;
+    border-bottom: 0.5px solid var(--line);
+}
+
+.menu-category-dishes .menu-dish:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.menu-category-dishes .menu-dish:first-child {
+    padding-top: 0;
+}
+
+.menu-dish-body {
+    flex: 1;
+    min-width: 0;
+}
+
+.menu-dish-name-it {
+    font-size: 15px;
+    font-weight: 500;
+    font-style: italic;
+    color: var(--vine-smooth);
+    margin: 0 0 2px;
+}
+
+.menu-dish-row {
+    display: flex;
+    align-items: baseline;
+    gap: 4px;
+}
+
+.menu-dish-name {
+    all: unset;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--coal);
+    flex: 0 0 auto;
+    max-width: 70%;
+    text-align: left;
+}
+
+.menu-dish-name:focus-visible {
+    outline: 2px solid var(--vine);
+    outline-offset: 2px;
+    border-radius: 2px;
+}
+
+.menu-dish-leader {
+    flex: 1;
+    border-bottom: 1px dotted var(--coal-smooth);
+    transform: translateY(-3px);
+    min-width: 12px;
+}
+
+.menu-dish-price {
+    font-size: 14px;
+    color: var(--coal);
+    flex: 0 0 auto;
+}
+
+.menu-dish-ingredients {
+    font-size: 12px;
+    font-style: italic;
+    color: var(--coal-smooth);
+    margin: 5px 0 6px;
+    line-height: 1.45;
+}
+
+.menu-dish-allergies {
+    font-size: 13px;
+    color: var(--vine-smooth);
+    margin: 0;
+    line-height: 1.4;
+}
+
+.menu-dish-media {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    border-radius: 8px;
+    background: var(--white);
+    flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: visible;
+}
+
+.menu-dish-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 8px;
+    display: block;
+}
+
+.menu-dish-image-placeholder {
+    font-size: 20px;
+    color: var(--coal-smooth);
+    line-height: 1;
+}
+
+.menu-dish-zoom {
+    all: unset;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: -6px;
+    right: -6px;
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: var(--vine);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.menu-dish-zoom .ti {
+    font-size: 12px;
+    color: #fff;
+    line-height: 1;
+}
+
+.menu-dish-zoom:focus-visible {
+    outline: 2px solid var(--vine-smooth);
+    outline-offset: 2px;
+}
+
+/* ── Hint ── */
+
+.menu-hint {
+    font-size: 11px;
+    color: var(--coal-smooth);
+    text-align: center;
+    margin: 18px 0 0;
+    line-height: 1.4;
+}
+
+/* ── Allergies section ── */
+
+.menu-allergies-section {
+    margin-top: 32px;
+    padding-top: 20px;
+    border-top: 0.5px solid var(--line);
+}
+
+.menu-allergies-title {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 19px;
+    color: var(--vine);
+    margin: 0 0 16px;
+}
+
+.menu-allergies-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.menu-allergy-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    font-size: 13px;
+    line-height: 1.45;
+    color: var(--coal);
+}
+
+.menu-allergy-code {
+    flex: 0 0 auto;
+    min-width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: var(--vine);
+    color: #fff;
+    font-size: 11px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu-allergy-label {
+    flex: 1;
+    min-width: 0;
+    color: var(--coal-smooth);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .menu-sidebar-item,
+    .menu-dish-name,
+    .menu-sidebar-allergies,
+    .menu-dish-zoom {
+        transition: none;
+    }
+}
