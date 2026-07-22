@@ -9,8 +9,7 @@
 }
 
 .menu-page {
-    --menu-max: 380px;
-
+    width: 100%;;
     min-height: 100dvh;
     max-width: var(--menu-max);
     margin: 0 auto;
@@ -18,25 +17,21 @@
     color: var(--coal);
     font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
     -webkit-font-smoothing: antialiased;
-    padding: max(12px, env(safe-area-inset-top)) max(14px, env(safe-area-inset-right)) max(20px, env(safe-area-inset-bottom)) max(14px, env(safe-area-inset-left));
 }
 
 /* ── Sidebar ── */
 
-.menu-sidebar-wrapper {
-    display: flex;
-    min-height: min(460px, calc(100dvh - 72px));
-    border-radius: 12px;
-    overflow: hidden;
-    margin-bottom: 14px;
-}
-
 .menu-sidebar {
     width: 74%;
+    max-height: calc(100dvh);
     background: var(--white);
-    padding: 20px 16px;
+    border-bottom-right-radius: 20px;
+    padding: 65px 16px 20px;
     display: flex;
     flex-direction: column;
+    position: fixed;
+    z-index: 998;
+    overflow-y: auto;
 }
 
 .menu-sidebar-header {
@@ -115,7 +110,6 @@
 .menu-sidebar-item--active {
     background: var(--cream);
     border-radius: 8px;
-    margin: 2px -4px;
     padding-left: 8px;
     padding-right: 8px;
     font-weight: 500;
@@ -167,20 +161,12 @@
     outline-offset: 2px;
 }
 
-.menu-sidebar-backdrop {
-    all: unset;
-    box-sizing: border-box;
-    flex: 1;
-    cursor: pointer;
-    background: rgba(43, 33, 30, 0.5);
-}
-
 /* ── Main ── */
 
 .menu-main {
     background: var(--cream);
     border-radius: 12px;
-    padding: 16px;
+    padding: 60px 16px 16px;
 }
 
 .menu-category + .menu-category {
@@ -338,16 +324,6 @@
 .menu-dish-zoom:focus-visible {
     outline: 2px solid var(--vine-smooth);
     outline-offset: 2px;
-}
-
-/* ── Hint ── */
-
-.menu-hint {
-    font-size: 11px;
-    color: var(--coal-smooth);
-    text-align: center;
-    margin: 18px 0 0;
-    line-height: 1.4;
 }
 
 /* ── Allergies section ── */
