@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,600;1,9..144,500&family=Work+Sans:wght@400;500;600;700&display=swap');
+
+:root{
+  --red: #B3122A;
+  --red-ink: #8C1122;
+  --cream: #FBF4EC;
+  --white: #FFFFFF;
+  --coal: #2B211E;
+  --coal-smooth: #6B5C56;
+  --line: rgba(122, 12, 29, 0.18);
+  --radius: 14px;
+}
+
+*{ box-sizing: border-box; }
+
+html, body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: var(--cream);
+  color: var(--coal);
+  font-family: 'Work Sans', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* CONTAINER — mobile-first */
+.main-container{
+  min-height: 100dvh;
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  background: radial-gradient(120% 60% at 50% -10%, rgba(179,18,42,0.10), transparent 60%), var(--cream);
+  padding: max(28px, env(safe-area-inset-top)) 20px max(24px, env(safe-area-inset-bottom));
+  text-align: center;
+}
+
+/* HEADER */
+.main-container .name{
+  display: inline-block;
+  margin: 0 0 10px;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--red);
+}
+
+.main-container h1{
+  margin: 0;
+  font-family: 'Fraunces', serif;
+  font-weight: 600;
+  font-size: clamp(28px, 8vw, 36px);
+  line-height: 1.15;
+  color: var(--coal);
+}
+
+.main-container p{
+  margin: 10px auto 0;
+  max-width: 30ch;
+  font-size: 14px;
+  color: var(--coal-smooth);
+  line-height: 1.5;
+}
+
+/* NAV — buttons list, dinamic quantities */
+.main-container nav{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 28px 2px 12px;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* BUTTON — language stamp */
+.main-container nav .button{
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+  min-height: 64px;
+  padding: 12px 18px;
+  background: var(--white);
+  border: 1.5px solid var(--line);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: transform 0.16s ease, background 0.16s ease, border-color 0.16s ease, box-shadow 0.16s ease;
+  box-shadow: 0 1px 0 rgba(122,12,29,0.04);
+  text-align: left;
+}
+
+/* slight alternating rotation, like a hand-applied stamp */
+.main-container nav .button:nth-child(3n+1){ transform: rotate(-0.6deg); }
+.main-container nav .button:nth-child(3n+2){ transform: rotate(0.5deg); }
+.main-container nav .button:nth-child(3n){ transform: rotate(-0.2deg); }
+
+.main-container nav .button:hover{
+  border-color: var(--red);
+  box-shadow: 0 6px 16px rgba(122,12,29,0.10);
+}
+
+.main-container nav .button:active{
+  transform: scale(0.97);
+  background: #FFF7F4;
+}
+
+.main-container nav .button:focus-visible{
+  outline: 2.5px solid var(--red);
+  outline-offset: 3px;
+}
+
+/* stamp */
+.button-code{
+  flex: 0 0 auto;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: 1.5px dashed var(--red-ink);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  line-height: 1;
+  background: var(--cream);
+  color: var(--red-ink);
+  overflow: hidden;
+}
+
+.button-text{
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.text{
+  font-weight: 600;
+  font-size: 16px;
+  color: var(--coal);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.nativeName{
+  font-size: 12.5px;
+  color: var(--coal-smooth);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.button-arrow{
+  margin-left: auto;
+  flex: 0 0 auto;
+  width: 18px;
+  height: 18px;
+  color: var(--red);
+  opacity: 0.55;
+  transition: transform 0.16s ease, opacity 0.16s ease;
+}
+
+.main-container nav .button:hover .button-arrow{
+  transform: translateX(3px);
+  opacity: 1;
+}
+
+@media (max-width: 340px){
+  .main-container h1{ font-size: 26px; }
+  .main-container nav .button{ min-height: 58px; padding: 10px 14px; }
+}
+
+/* acessibility */
+@media (prefers-reduced-motion: reduce){
+  .main-container nav .button{ transition: none; }
+  .main-container nav .button{ transform: none !important; }
+}

@@ -1,0 +1,28 @@
+{
+    "languages" : [
+        {
+            "name": "Italiano",
+            "nativeName": "Italia",
+            "flag": "IT",
+            "code": "it"
+        },
+        {
+            "name": "English",
+            "nativeName": "United kingdom",
+            "flag": "GB",
+            "code": "en"
+        },
+        {
+            "name": "Português",
+            "nativeName": "Brasil",
+            "flag": "PT",
+            "code": "pt"
+        },
+        {
+            "name": "Français",
+            "nativeName": "France",
+            "flag": "FR",
+            "code": "fr"
+        }
+    ]
+}

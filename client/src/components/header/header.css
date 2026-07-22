@@ -1,0 +1,75 @@
+.menu-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 14px;
+    background: var(--cream);
+}
+
+.menu-header-burger {
+    all: unset;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+    flex: 0 0 auto;
+    color: var(--vine);
+}
+
+.menu-header-burger .ti {
+    font-size: 21px;
+    line-height: 1;
+}
+
+.menu-header-burger:focus-visible {
+    outline: 2px solid var(--vine);
+    outline-offset: 2px;
+    border-radius: 4px;
+}
+
+.menu-header-brand {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    min-width: 0;
+}
+
+.menu-header-logo {
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    border: 1px solid var(--vine);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
+}
+
+.menu-header-logo span {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 13px;
+    color: var(--vine);
+    line-height: 1;
+}
+
+.menu-header-name {
+    font-family: 'Playfair Display', serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: var(--coal);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.menu-header-spacer {
+    width: 21px;
+    flex: 0 0 auto;
+}
