@@ -203,14 +203,16 @@ function Menu() {
                     </section>
                 ))}
                 <section id="allergies" className="menu-allergies-section">
-                    <h2 className="menu-allergies-title">{allergiesLegend.title}</h2>
-                    <button
-                        type="button"
-                        className="menu-sidebar-allergies"
-                        onClick={() => handleScroll('getBack')}
-                    >
-                        Get Back
-                    </button>
+                    <span className='container-allergies-back'>
+                        <h2 className="menu-allergies-title">{allergiesLegend.title}</h2>
+                        <button
+                            type="button"
+                            className="back-categorie"
+                            onClick={() => handleScroll('getBack')}
+                        >
+                            {ui.backButton}
+                        </button>
+                    </span>
                     <ul className="menu-allergies-list">
                         {allergiesLegend.items.map(allergy => (
                             <li

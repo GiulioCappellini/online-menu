@@ -328,6 +328,15 @@
 
 /* ── Allergies section ── */
 
+.container-allergies-back {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
 .menu-allergies-section {
     margin-top: 32px;
     padding-top: 20px;
@@ -340,7 +349,14 @@
     font-weight: 600;
     font-size: 19px;
     color: var(--vine);
-    margin: 0 0 16px;
+}
+
+.back-categorie {
+    padding: 5px 20px;
+    border: none;
+    border-radius: 20px;
+    color: var(--white);
+    background-color: var(--vine);
 }
 
 .menu-allergies-list {

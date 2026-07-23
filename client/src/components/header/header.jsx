@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import './header.css';
 
 function Header({ isSidebarOpen, onToggleSidebar, ui }) {
@@ -20,7 +21,12 @@ function Header({ isSidebarOpen, onToggleSidebar, ui }) {
                 <span className="menu-header-name">Re Ferdinando</span>
             </div>
 
-            <span className="menu-header-spacer" aria-hidden="true" />
+            <Link 
+                to="/select-language"
+                className="menu-button-code"
+            >
+                {ui.changeLang}
+            </Link>
         </header>
     );
 }
