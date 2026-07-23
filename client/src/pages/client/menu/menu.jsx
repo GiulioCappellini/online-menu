@@ -106,7 +106,6 @@ function Menu() {
 
         // In case it is a category
         setActiveCategorySlug(target);
-
         document.getElementById(target) ?.scrollIntoView({behavior: "smooth"});
         closeSidebar();
     };
