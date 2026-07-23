@@ -19,6 +19,7 @@ const CATEGORY_ICONS = {
 
 const UI_STRINGS = {
     pt: {
+        backButton: 'Voltar',
         changeLang: 'PT',
         categories: 'Categorias',
         allAllergies: 'Todas as alergias',
@@ -28,6 +29,7 @@ const UI_STRINGS = {
         zoomImage: 'Ampliar imagem',
     },
     en: {
+        backButton: 'Return',
         changeLang: 'EN',
         categories: 'Categories',
         allAllergies: 'All allergies',
@@ -37,6 +39,7 @@ const UI_STRINGS = {
         zoomImage: 'Zoom image',
     },
     it: {
+        backButton: 'Tornare',
         changeLang: 'IT',
         categories: 'Categorie',
         allAllergies: 'Tutte le allergie',
@@ -46,6 +49,7 @@ const UI_STRINGS = {
         zoomImage: 'Ingrandisci immagine',
     },
     fr: {
+        backButton: 'retourner',
         changeLang: 'FR',
         categories: 'Catégories',
         allAllergies: 'Tous les allergènes',
@@ -55,6 +59,7 @@ const UI_STRINGS = {
         zoomImage: 'Agrandir l’image',
     },
     de: {
+        backButton: 'zurückgehen',
         changeLang: 'DE',
         categories: 'Kategorien',
         allAllergies: 'Alle Allergene',
