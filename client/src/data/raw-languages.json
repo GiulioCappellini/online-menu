@@ -19,6 +19,12 @@
             "code": "pt"
         },
         {
+            "name": "Deutsch",
+            "nativeName": "Deutschland",
+            "flag": "DE",
+            "code": "de"
+        },
+        {
             "name": "Français",
             "nativeName": "France",
             "flag": "FR",

@@ -4,77 +4,107 @@
             "translations-tittle" : {
                 "it" : "Alergie",
                 "en" : "Allergies",
-                "pt" : "Alergias"
+                "pt" : "Alergias",
+                "de" : "Allergien",
+                "fr" : "allergies"
             },
             "1": {
-                "it" : "Cereali contenenti glutine e prodotti derivati grano, segale, orzo, avena, farro kamut",
-                "en" : "Cereals containing gluten and derived products: wheat, rye, barley, oats, spelt, kamut",
-                "pt" : "Cereais que contêm glúten e produtos derivados: trigo, centeio, cevada, aveia, espelta, kamut"
+                "it": "Cereali contenenti glutine e prodotti derivati: grano, segale, orzo, avena, farro, kamut",
+                "en": "Cereals containing gluten and derived products: wheat, rye, barley, oats, spelt, kamut",
+                "pt": "Cereais que contêm glúten e produtos derivados: trigo, centeio, cevada, aveia, espelta, kamut",
+                "de": "Getreide, das Gluten enthält, und daraus gewonnene Erzeugnisse: Weizen, Roggen, Gerste, Hafer, Dinkel, Kamut",
+                "fr": "Céréales contenant du gluten et produits dérivés : blé, seigle, orge, avoine, épeautre, kamut"
             },
             "2": {
-                "it" : "Crostacei e prodotti a base di crostacei",
-                "en" : "Crustaceans and crustacean-based products",
-                "pt" : "Crustáceos e produtos à base de crustáceos"
+                "it": "Crostacei e prodotti a base di crostacei",
+                "en": "Crustaceans and crustacean-based products",
+                "pt": "Crustáceos e produtos à base de crustáceos",
+                "de": "Krebstiere und daraus gewonnene Erzeugnisse",
+                "fr": "Crustacés et produits à base de crustacés"
             },
             "3": {
-                "it" : "Uova e prodotti a base di uova",
-                "en" : "Eggs and egg-based products",
-                "pt" : "Ovos e produtos à base de ovos"
+                "it": "Uova e prodotti a base di uova",
+                "en": "Eggs and egg-based products",
+                "pt": "Ovos e produtos à base de ovos",
+                "de": "Eier und daraus gewonnene Erzeugnisse",
+                "fr": "Œufs et produits à base d'œufs"
             },
             "4": {
-                "it" : "Pesce e prodotti a base di pesced",
-                "en" : "Fish and fish-based products",
-                "pt" : "Peixe e produtos à base de peixe"
+                "it": "Pesce e prodotti a base di pesce",
+                "en": "Fish and fish-based products",
+                "pt": "Peixe e produtos à base de peixe",
+                "de": "Fisch und daraus gewonnene Erzeugnisse",
+                "fr": "Poissons et produits à base de poisson"
             },
             "5": {
-                "it" : "Arachidi e prodotti a base di arachidi",
-                "en" : "Peanuts and peanut-based products",
-                "pt" : "Amendoim e produtos à base de amendoim"
+                "it": "Arachidi e prodotti a base di arachidi",
+                "en": "Peanuts and peanut-based products",
+                "pt": "Amendoim e produtos à base de amendoim",
+                "de": "Erdnüsse und daraus gewonnene Erzeugnisse",
+                "fr": "Arachides et produits à base d'arachides"
             },
             "6": {
-                "it" : "Soia e prodotti a base di soia",
-                "en" : "Soybeans and soy-based products",
-                "pt" : "Soja e produtos à base de soja"
+                "it": "Soia e prodotti a base di soia",
+                "en": "Soybeans and soy-based products",
+                "pt": "Soja e produtos à base de soja",
+                "de": "Sojabohnen und daraus gewonnene Erzeugnisse",
+                "fr": "Soja et produits à base de soja"
             },
             "7": {
-                "it" : "Latte e prodotti a base di latte",
-                "en" : "Milk and milk-based products",
-                "pt" : "Leite e produtos à base de leite"
+                "it": "Latte e prodotti a base di latte",
+                "en": "Milk and milk-based products",
+                "pt": "Leite e produtos à base de leite",
+                "de": "Milch und daraus gewonnene Erzeugnisse",
+                "fr": "Lait et produits à base de lait"
             },
             "8": {
-                "it" : "Sedano e prodotti a base di sedano",
-                "en" : "Celery and celery-based products",
-                "pt" : "Aipo e produtos à base de aipo"
+                "it": "Sedano e prodotti a base di sedano",
+                "en": "Celery and celery-based products",
+                "pt": "Aipo e produtos à base de aipo",
+                "de": "Sellerie und daraus gewonnene Erzeugnisse",
+                "fr": "Céleri et produits à base de céleri"
             },
             "9": {
-                "it" : "Senape e prodotti a base di senape",
-                "en" : "Mustard and mustard-based products",
-                "pt" : "Mostarda e produtos à base de mostarda"
+                "it": "Senape e prodotti a base di senape",
+                "en": "Mustard and mustard-based products",
+                "pt": "Mostarda e produtos à base de mostarda",
+                "de": "Senf und daraus gewonnene Erzeugnisse",
+                "fr": "Moutarde et produits à base de moutarde"
             },
             "10": {
-                "it" : "Solfiti in concentrazioni superiori a 10 mg/kg",
-                "en" : "Sulphites in concentrations greater than 10 mg/kg",
-                "pt" : "Sulfitos em concentrações superiores a 10 mg/kg"
+                "it": "Solfiti in concentrazioni superiori a 10 mg/kg",
+                "en": "Sulphites in concentrations greater than 10 mg/kg",
+                "pt": "Sulfitos em concentrações superiores a 10 mg/kg",
+                "de": "Sulfite in Konzentrationen von mehr als 10 mg/kg",
+                "fr": "Sulfites en concentrations supérieures à 10 mg/kg"
             },
             "11": {
-                "it" : "Semi di sesamo e prodotti a base di sesamo",
-                "en" : "Sesame seeds and sesame-based products",
-                "pt" : "Sementes de gergelim e produtos à base de gergelim"
+                "it": "Semi di sesamo e prodotti a base di sesamo",
+                "en": "Sesame seeds and sesame-based products",
+                "pt": "Sementes de gergelim e produtos à base de gergelim",
+                "de": "Sesamsamen und daraus gewonnene Erzeugnisse",
+                "fr": "Graines de sésame et produits à base de sésame"
             },
             "12": {
-                "it" : "Lupini e prodotti a base di lupini",
-                "en" : "Lupin and lupin-based products",
-                "pt" : "Tremoço e produtos à base de tremoço"
+                "it": "Lupini e prodotti a base di lupini",
+                "en": "Lupin and lupin-based products",
+                "pt": "Tremoço e produtos à base de tremoço",
+                "de": "Lupinen und daraus gewonnene Erzeugnisse",
+                "fr": "Lupin et produits à base de lupin"
             },
             "13": {
-                "it" : "Frutta guscio e loro prodotti mandorle, nocciole, noci. noci di acagiù,di lecan del Brasile, pistacchi, noci macadamia",
-                "en" : "Tree nuts and nut-based products: almonds, hazelnuts, walnuts, cashew nuts, Brazil nuts, pistachios, macadamia nuts",
-                "pt" : "Frutos de casca rija e seus produtos: amêndoas, avelãs, nozes, castanha de caju, castanha-do-pará, pistache, macadâmia"
+                "it": "Frutta a guscio e loro prodotti: mandorle, nocciole, noci, noci di acagiù, noci del Brasile, pistacchi, noci macadamia",
+                "en": "Tree nuts and nut-based products: almonds, hazelnuts, walnuts, cashew nuts, Brazil nuts, pistachios, macadamia nuts",
+                "pt": "Frutos de casca rija e seus produtos: amêndoas, avelãs, nozes, castanha de caju, castanha-do-pará, pistache, macadâmia",
+                "de": "Schalenfrüchte und daraus gewonnene Erzeugnisse: Mandeln, Haselnüsse, Walnüsse, Cashewnüsse, Paranüsse, Pistazien, Macadamianüsse",
+                "fr": "Fruits à coque et produits dérivés : amandes, noisettes, noix, noix de cajou, noix du Brésil, pistaches, noix de macadamia"
             },
             "14": {
-                "it" : "Molluschi e prodotti a base di molluschi",
-                "en" : "Molluscs and mollusc-based products",
-                "pt" : "Moluscos e produtos à base de moluscos"
+                "it": "Molluschi e prodotti a base di molluschi",
+                "en": "Molluscs and mollusc-based products",
+                "pt": "Moluscos e produtos à base de moluscos",
+                "de": "Weichtiere und daraus gewonnene Erzeugnisse",
+                "fr": "Mollusques et produits à base de mollusques"
             }
         }
     ]

@@ -1,12 +1,14 @@
 {
     "items": [
         {
-            "Seafood appetizers": [
+            "Seafood starters": [
                 {
                     "translations-tittle": {
                         "it": "Antipasti di mare",
-                        "en": "Seafood appetizers",
-                        "pt": "Petiscos de frutos do mar"
+                        "en": "Seafood starters",
+                        "pt": "Entradas de frutos do mar",
+                        "de": "Vorspeisen aus dem Meer",
+                        "fr": "Entrées de la mer"
                     }
                 },
                 {
@@ -35,6 +37,22 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -74,26 +92,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -101,42 +101,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -176,26 +142,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -203,42 +151,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -278,6 +192,22 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
                         }
                     }
                 },
@@ -307,6 +237,222 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -316,12 +462,14 @@
                     }
                 }
             ],
-            "Meat-based appetizers": [
+            "Land starters": [
                 {
                     "translations-tittle": {
-                        "it": "Antipasti de terra",
-                        "en": "Meat-based appetizers",
-                        "pt": "Petiscos à base de carne"
+                        "it": "Antipasti di terra",
+                        "en": "Land starters",
+                        "pt": "Entradas de terra",
+                        "de": "Vorspeisen vom Land",
+                        "fr": "Entrées de la terre"
                     }
                 },
                 {
@@ -350,6 +498,22 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -389,26 +553,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -416,42 +562,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -491,6 +603,22 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
                         }
                     }
                 },
@@ -520,6 +648,122 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -534,7 +778,9 @@
                     "translations-tittle": {
                         "it": "Insalatone",
                         "en": "Large salads",
-                        "pt": "Saladonas"
+                        "pt": "Saladas grandes",
+                        "de": "Große Salate",
+                        "fr": "Grandes salades"
                     }
                 },
                 {
@@ -563,6 +809,22 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -602,6 +864,22 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
                         }
                     }
                 },
@@ -631,6 +909,22 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -640,12 +934,14 @@
                     }
                 }
             ],
-            "First seafood courses": [
+            "Seafood first courses": [
                 {
                     "translations-tittle": {
-                        "it": "Primi piatti del mare",
-                        "en": "First seafood courses",
-                        "pt": "Primeiros pratos de frutos do mar"
+                        "it": "Primi piatti di mare",
+                        "en": "Seafood first courses",
+                        "pt": "Primeiros pratos de frutos do mar",
+                        "de": "Erste Gänge mit Meeresfrüchten",
+                        "fr": "Entrées de fruits de mer"
                     }
                 },
                 {
@@ -674,6 +970,22 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -713,26 +1025,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -740,42 +1034,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -815,6 +1075,22 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
                         }
                     }
                 },
@@ -849,6 +1125,22 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
                         }
                     }
                 },
@@ -883,6 +1175,22 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
                         }
                     }
                 },
@@ -912,6 +1220,122 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -924,9 +1348,11 @@
             "The classics": [
                 {
                     "translations-tittle": {
-                        "it": "I classice",
+                        "it": "I classici",
                         "en": "The classics",
-                        "pt": "Os clássicos"
+                        "pt": "Os clássicos",
+                        "de": "Die Klassiker",
+                        "fr": "Les classiques"
                     }
                 },
                 {
@@ -955,6 +1381,22 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -994,26 +1436,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -1021,42 +1445,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1096,26 +1486,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -1123,42 +1495,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1198,6 +1536,22 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
                         }
                     }
                 },
@@ -1227,6 +1581,222 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1236,12 +1806,14 @@
                     }
                 }
             ],
-            "Second seafood courses": [
+            "Main seafood courses": [
                 {
                     "translations-tittle": {
                         "it": "Secondi piatti di mare",
-                        "en": "Second seafood courses",
-                        "pt": "Segundos pratos de frutos do mar"
+                        "en": "Main seafood courses",
+                        "pt": "Pratos principais de frutos do mar",
+                        "de": "Hauptgerichte mit Meeresfrüchten",
+                        "fr": "Plats principaux de fruits de mer"
                     }
                 },
                 {
@@ -1270,6 +1842,22 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1309,26 +1897,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -1336,42 +1906,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1411,26 +1947,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -1438,42 +1956,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1513,6 +1997,22 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
                         }
                     }
                 },
@@ -1547,6 +2047,22 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
                         }
                     }
                 },
@@ -1581,6 +2097,22 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
                         }
                     }
                 },
@@ -1610,6 +2142,222 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1619,12 +2367,14 @@
                     }
                 }
             ],
-            "Second meat courses": [
+            "Main couuses with meat": [
                 {
                     "translations-tittle": {
                         "it": "Secondi piatti di terra",
-                        "en": "Second meat courses",
-                        "pt": "Segundos pratos de carne"
+                        "en": "Main courses with meat",
+                        "pt": "Pratos principais de carne",
+                        "de": "Hauptgerichte mit Fleisch",
+                        "fr": "Plats principaux de viande"
                     }
                 },
                 {
@@ -1653,6 +2403,22 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1692,26 +2458,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -1719,42 +2467,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1794,6 +2508,22 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
                         }
                     }
                 },
@@ -1823,6 +2553,122 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1837,7 +2683,9 @@
                     "translations-tittle": {
                         "it": "Contorni",
                         "en": "Side dishes",
-                        "pt": "Acompanhamentos"
+                        "pt": "Acompanhamentos",
+                        "de": "Beilagen",
+                        "fr": "Accompagnements"
                     }
                 },
                 {
@@ -1866,6 +2714,22 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1905,26 +2769,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -1932,42 +2778,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2007,6 +2819,22 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
                         }
                     }
                 },
@@ -2036,6 +2864,122 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2050,7 +2994,9 @@
                     "translations-tittle": {
                         "it": "Pizze",
                         "en": "Pizzas",
-                        "pt": "Pizzas"
+                        "pt": "Pizzas",
+                        "de": "Pizzen",
+                        "fr": "Pizzas"
                     }
                 },
                 {
@@ -2079,6 +3025,22 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2118,26 +3080,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -2145,42 +3089,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2220,26 +3130,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -2247,42 +3139,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2322,26 +3180,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -2349,42 +3189,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2424,26 +3230,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -2451,42 +3239,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2526,26 +3280,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -2553,42 +3289,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2628,6 +3330,22 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
                         }
                     }
                 },
@@ -2657,6 +3375,522 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2671,7 +3905,9 @@
                     "translations-tittle": {
                         "it": "Pizze gourmet",
                         "en": "Gourmet pizzas",
-                        "pt": "Pizzas gourmet"
+                        "pt": "Pizzas gourmet",
+                        "de": "Gourmet-Pizzen",
+                        "fr": "Pizzas gastronomiques"
                     }
                 },
                 {
@@ -2700,6 +3936,22 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2734,6 +3986,22 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2748,7 +4016,9 @@
                     "translations-tittle": {
                         "it": "Desserts",
                         "en": "Desserts",
-                        "pt": "Sobremesas"
+                        "pt": "Sobremesas",
+                        "de": "Desserts",
+                        "fr": "Desserts"
                     }
                 },
                 {
@@ -2777,6 +4047,22 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2816,26 +4102,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -2843,42 +4111,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2918,26 +4152,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -2945,42 +4161,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3020,6 +4202,22 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
                         }
                     }
                 },
@@ -3049,6 +4247,222 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3063,7 +4477,9 @@
                     "translations-tittle": {
                         "it": "Bevande",
                         "en": "Drinks",
-                        "pt": "Bebidas"
+                        "pt": "Bebidas",
+                        "de": "Getränke",
+                        "fr": "Boissons"
                     }
                 },
                 {
@@ -3092,6 +4508,22 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3131,26 +4563,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -3158,42 +4572,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3233,26 +4613,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -3260,42 +4622,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3335,26 +4663,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -3362,42 +4672,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3437,6 +4713,22 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
                         }
                     }
                 },
@@ -3466,6 +4758,322 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3480,7 +5088,9 @@
                     "translations-tittle": {
                         "it": "Il nostro bar",
                         "en": "Our bar",
-                        "pt": "Nosso bar"
+                        "pt": "Nosso bar",
+                        "de": "Unsere Bar",
+                        "fr": "Notre bar"
                     }
                 },
                 {
@@ -3509,6 +5119,22 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3548,26 +5174,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -3575,42 +5183,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3650,26 +5224,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -3677,42 +5233,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3752,26 +5274,8 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
                         },
-                        "en": {
+                        "de": {
                             "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
@@ -3779,42 +5283,8 @@
                                 "Ingredient"
                             ]
                         },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
+                        "fr": {
                             "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3854,6 +5324,22 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
                         }
                     }
                 },
@@ -3888,6 +5374,22 @@
                                 "Ingredient",
                                 "Ingredient"
                             ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
                         }
                     }
                 },
@@ -3917,6 +5419,322 @@
                         },
                         "it": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 10.0,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3933,7 +5751,9 @@
             "translations-tittle": {
                 "it": "Allergie",
                 "en": "Allergies",
-                "pt": "Alergias"
+                "pt": "Alergias",
+                "de": "Allergene",
+                "fr": "Allergènes"
             }
         }
     ]
