@@ -2,12 +2,12 @@ import aquiEntraOJson from '../data/menu.json';
 import aquiEntraAlergiasJson from '../data/alergies.json';
 
 const CATEGORY_ICONS = {
-    'Seafood appetizers': 'ti-fish',
-    'Meat-based appetizers': 'ti-meat',
-    'First seafood courses': 'ti-anchor',
+    'Seafood starters': 'ti-fish',
+    'Land starters': 'ti-meat',
+    'Seafood first courses': 'ti-anchor',
     'The classics': 'ti-star',
-    'Second seafood courses': 'ti-fish',
-    'Second meat courses': 'ti-meat',
+    'Main seafood courses': 'ti-fish',
+    'Main couuses with meat': 'ti-meat',
     'Side dishes': 'ti-salad',
     'Pizzas': 'ti-pizza',
     'Gourmet pizzas': 'ti-pizza',
@@ -19,6 +19,7 @@ const CATEGORY_ICONS = {
 
 const UI_STRINGS = {
     pt: {
+        changeLang: 'PT',
         categories: 'Categorias',
         allAllergies: 'Todas as alergias',
         allergiesLabel: 'Alergias',
@@ -27,6 +28,7 @@ const UI_STRINGS = {
         zoomImage: 'Ampliar imagem',
     },
     en: {
+        changeLang: 'EN',
         categories: 'Categories',
         allAllergies: 'All allergies',
         allergiesLabel: 'Allergies',
@@ -35,6 +37,7 @@ const UI_STRINGS = {
         zoomImage: 'Zoom image',
     },
     it: {
+        changeLang: 'IT',
         categories: 'Categorie',
         allAllergies: 'Tutte le allergie',
         allergiesLabel: 'Allergie',
@@ -43,6 +46,7 @@ const UI_STRINGS = {
         zoomImage: 'Ingrandisci immagine',
     },
     fr: {
+        changeLang: 'FR',
         categories: 'Catégories',
         allAllergies: 'Tous les allergènes',
         allergiesLabel: 'Allergènes',
@@ -51,6 +55,7 @@ const UI_STRINGS = {
         zoomImage: 'Agrandir l’image',
     },
     de: {
+        changeLang: 'DE',
         categories: 'Kategorien',
         allAllergies: 'Alle Allergene',
         allergiesLabel: 'Allergene',
