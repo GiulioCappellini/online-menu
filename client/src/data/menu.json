@@ -12,11 +12,23 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 24.00,
                     "image": "putImageUrl",
                     "allergies": [
-                        "0",
-                        "1"
+                        "1",
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7",
+                        "8",
+                        "9",
+                        "10",
+                        "11",
+                        "12",
+                        "13",
+                        "14"
                     ],
                     "translations": {
                         "pt": {
@@ -36,7 +48,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Degustazione di mare",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -62,7 +74,44 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 20.00,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "2",
+                        "4",
+                        "10",
+                        "14"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                            ]
+                        },
+                        "it": {
+                            "name": "Insalata di mare",
+                            "ingredients": [
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 18.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -86,7 +135,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Coppetto del Pescatore",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -112,7 +161,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 18.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -136,7 +185,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Sautè ai Frutti Di Mare",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -162,7 +211,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 22.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -186,7 +235,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Cozze alla napoletana, con polpo, mazzancolle, scampi e cannolicchi",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -212,7 +261,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 16.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -236,7 +285,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Sautè di cozze",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -262,7 +311,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 13.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -286,7 +335,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Cozze Gratinate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -312,7 +361,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 50.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -336,7 +385,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Pateaux Royal",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -362,7 +411,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 3.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -386,57 +435,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "de": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "fr": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Coperto",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -473,7 +472,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 20.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -497,7 +496,207 @@
                             ]
                         },
                         "it": {
+                            "name": "Misto salumi e formaggi",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 1.00,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "Caprese",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 15.00,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "Fritto italiano",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 20.00,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "Carpaccio di black angus affumicato",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "price": 25.00,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
+                            "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "Degustazione di Jamon Iberico",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -547,207 +746,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "de": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "fr": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "de": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "fr": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "de": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "fr": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "de": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "fr": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Bruschette ai tre gusti",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -784,7 +783,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 14.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -808,7 +807,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Insalata italiana",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -834,7 +833,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 16.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -858,7 +857,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Insalata del Re",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -884,7 +883,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 15.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -908,7 +907,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Insalata Tonno e Mozzarella",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -945,7 +944,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 24.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -969,7 +968,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Paccheri tre Garibaldi",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -995,7 +994,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 35.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1019,7 +1018,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Spaghetti all'Astice",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1045,7 +1044,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 40.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1069,7 +1068,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Risotto all'Astice",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1095,7 +1094,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 22.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1119,7 +1118,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Gnocchi di Patate con Vongole e Zucchine",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1145,7 +1144,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 30.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1169,7 +1168,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Piatto Re Ferdinando",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1195,7 +1194,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 25.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1219,7 +1218,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Spaghetti Vongole e Bottarga",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1245,7 +1244,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 23.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1269,7 +1268,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Risotto alla Pescatora",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1295,7 +1294,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 22.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1319,7 +1318,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Fregula allo Scoglio",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1356,7 +1355,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 16.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1380,7 +1379,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Gnocchi Sardi alla Gallurese",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1406,7 +1405,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 16.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1430,7 +1429,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Ravioli Sardi",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1456,7 +1455,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 13.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1480,7 +1479,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Spaghetti al Pomodorino Pachino e Basilico Fresco",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1506,7 +1505,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 15.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1530,7 +1529,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Pennette alla mediterranea",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1556,7 +1555,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 15.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1580,7 +1579,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Lasagna alla bolognese",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1606,7 +1605,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 20.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1630,7 +1629,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Pasta e Patate ai frutti di mare",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1656,7 +1655,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 16.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1680,7 +1679,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Spaghetti alle cozze",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1706,7 +1705,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 22.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1730,7 +1729,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Spaghetti alle vongole",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1756,7 +1755,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 22.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1780,7 +1779,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Spaghetti allo scohlio",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1817,7 +1816,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 22.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1841,7 +1840,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Polpo Croccante in doppia cottura con friarielli",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1867,7 +1866,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 22.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1891,7 +1890,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Tagliata di Tonno con rucola e pomodorini",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1917,7 +1916,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 30.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1941,7 +1940,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Grigliata di pesce e crostacei",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -1967,7 +1966,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 23.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -1991,7 +1990,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Fritto di calamari e gamberi, verdure pastellate",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2017,7 +2016,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 22.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2041,7 +2040,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Pesce Spada alla Griglia",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2067,7 +2066,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 20.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2091,7 +2090,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Spigola o Orata alla griglia con pomodoro e insalatina fresca",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2117,7 +2116,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 26.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2141,7 +2140,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Tartare di tonno con avocado",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2167,7 +2166,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 9.0,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2191,7 +2190,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Pescato locale cucinato a scelta(secondo disponibilità del mercato locale)",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2217,7 +2216,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 24.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2241,7 +2240,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Gamberoni alla griglia",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2267,7 +2266,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 21.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2291,7 +2290,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Aragosta alla Catalana",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2317,7 +2316,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 21.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2341,7 +2340,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Filetto di salmone in bellavista",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2378,7 +2377,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 50.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2402,7 +2401,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Grigliata di carne",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2428,7 +2427,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 24.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2452,7 +2451,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Tagliata di manzo con rucola e pomodorini",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2478,7 +2477,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 16.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2502,7 +2501,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Cotoletta di Vitello (300gr) con patate fritte",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2528,7 +2527,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 13.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2552,7 +2551,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Scamorza alla griglia con pane carasau",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2578,7 +2577,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 22.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2602,7 +2601,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Entrecôte scaloppata ai Ferri",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2628,7 +2627,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 22.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2652,7 +2651,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Parmigiana di melanzane",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2689,7 +2688,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 6.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2713,7 +2712,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Insalata Mista",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2739,7 +2738,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 6.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2763,7 +2762,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Insalata verde",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2789,7 +2788,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 6.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2813,7 +2812,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Patate fritte",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2839,7 +2838,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 6.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2863,7 +2862,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Patate al forno",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2889,7 +2888,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 7.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2913,7 +2912,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Verdure alla griglia",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -2939,7 +2938,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 6.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -2963,7 +2962,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Insalata di pomodori e rucola",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3000,7 +2999,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 7.50,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3024,7 +3023,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Margherita",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3050,7 +3049,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 7.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3074,7 +3073,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Marinara",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3100,7 +3099,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 8.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3124,7 +3123,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Cosacca",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3150,7 +3149,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 9.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3174,7 +3173,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Bella Napoli",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3200,7 +3199,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 12.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3224,7 +3223,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Sarda",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3250,7 +3249,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 11.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3274,7 +3273,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Ghiotta",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3300,7 +3299,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 11.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3324,7 +3323,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Capricciosa",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3350,7 +3349,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 11.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3374,7 +3373,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Calzone",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3400,7 +3399,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 11.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3424,7 +3423,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Ortolana",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3450,7 +3449,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 12.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3474,7 +3473,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Tedesca",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3500,7 +3499,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 12.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3524,7 +3523,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Quattro stagioni",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3550,7 +3549,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 10.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3574,7 +3573,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Diavola",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3600,7 +3599,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 11.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3624,7 +3623,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Caprese",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3650,7 +3649,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 15.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3674,7 +3673,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Napule è",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3700,7 +3699,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 15.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3724,7 +3723,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Super pizza",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3750,7 +3749,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 15.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3774,7 +3773,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Marenostrum",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3800,7 +3799,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 18.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3824,7 +3823,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Salmonata",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3850,7 +3849,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 18.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3874,7 +3873,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Smeraldina",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3911,7 +3910,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 20.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3935,7 +3934,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Gourmet Magnifica",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -3961,7 +3960,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 15.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -3985,7 +3984,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Re Ferdinando",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4022,7 +4021,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 7.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4046,7 +4045,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Babà",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4072,7 +4071,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 7.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4096,7 +4095,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Pastiera napoletana",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4122,7 +4121,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 7.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4146,7 +4145,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Caprese",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4172,7 +4171,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 8.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4196,7 +4195,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Seadas",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4222,7 +4221,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 8.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4246,7 +4245,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Tiramisù",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4272,7 +4271,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 7.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4296,7 +4295,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Crema catalana",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4322,7 +4321,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 7.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4346,7 +4345,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Panna cotta",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4372,7 +4371,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 7.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4396,7 +4395,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Ananas Fantasia",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4422,7 +4421,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 7.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4446,7 +4445,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Coppa gelati 3 gusti",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4483,7 +4482,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 3.50,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4507,7 +4506,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Acqua minerale naturale e gassata da 0,75 lt",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4533,7 +4532,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 3.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4557,7 +4556,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Succhi di Frutta",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4583,7 +4582,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 3.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4607,7 +4606,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Bibite analcoliche",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4633,7 +4632,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 4.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4657,7 +4656,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Birra alla spina 20 cl",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4683,7 +4682,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 5.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4707,7 +4706,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Burra alla spina 40 cl",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4733,7 +4732,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 6.50,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4757,7 +4756,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Birra alla spina 50 cl",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4783,7 +4782,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 13.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4807,7 +4806,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Birra alla spina Caraffa da 1 lt",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4833,7 +4832,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 4.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4857,7 +4856,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Ichisa Non Filtrata da 33 cl",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4883,7 +4882,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 5.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4907,7 +4906,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Vino in Caraffa bianco o rosso da 0,25 cl",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4933,7 +4932,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 7.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -4957,7 +4956,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Vino in Caraffa bianco o rosso da 0,50 cl",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -4983,7 +4982,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 14.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -5007,7 +5006,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Vino in Caraffa bianco o rosso da 1 lt",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -5033,7 +5032,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 25.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -5057,7 +5056,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Vermentino di Gallura Sup. della casa da 1 lt",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -5094,7 +5093,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 2.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -5118,7 +5117,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Caffè",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -5144,7 +5143,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 3.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -5168,7 +5167,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Cappuccino, Thè, Camomila ed infusi",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -5194,7 +5193,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 5.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -5218,7 +5217,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Amari e Liquori",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -5244,7 +5243,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 5.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -5268,7 +5267,59 @@
                             ]
                         },
                         "it": {
+                            "name": "Distillati Comuni & Grappe",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "de": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "fr": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        }
+                    }
+                }
+            ],
+            "La nostra selezione di Distillati" : [
+                {
+                    "price": 10.00,
+                    "image": "putImageUrl",
+                    "allergies": [
+                        "0",
+                        "1"
+                    ],
+                    "translations": {
+                        "pt": {
                             "name": "nameOfThePlate",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "en": {
+                            "name": "nameOfThePlatea",
+                            "ingredients": [
+                                "Ingredient",
+                                "Ingredient",
+                                "Ingredient"
+                            ]
+                        },
+                        "it": {
+                            "name": "Rum Zacapa",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -5294,7 +5345,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 10.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -5318,7 +5369,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Grappa 'Barili di Sassiccaia' Poli",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -5344,7 +5395,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 12.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -5368,7 +5419,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Grappa Grancuvée B. Tosolini",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -5394,7 +5445,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 12.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -5418,7 +5469,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Grappa di Nebbiolo Tre Soli Tre Berta",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -5444,7 +5495,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 8.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -5468,7 +5519,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Grappa di Amarone 'Marzadro'",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -5494,7 +5545,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 8.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -5518,7 +5569,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Grappa di Gewurtramier",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -5544,7 +5595,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 8.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -5568,7 +5619,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Grappa Mazzetti Oro 24 carati",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
@@ -5594,7 +5645,7 @@
                     }
                 },
                 {
-                    "price": 10.0,
+                    "price": 15.00,
                     "image": "putImageUrl",
                     "allergies": [
                         "0",
@@ -5618,107 +5669,7 @@
                             ]
                         },
                         "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "de": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "fr": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "de": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "fr": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "nameOfThePlate",
+                            "name": "Scoth whisky Whyte and Mackay",
                             "ingredients": [
                                 "Ingredient",
                                 "Ingredient",
