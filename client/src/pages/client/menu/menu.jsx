@@ -36,7 +36,7 @@ function MenuDish({
                         aria-hidden="true" 
                     />
                     <span className="menu-dish-price">
-                        {formatPrice(dish.price)}
+                        {`€ ${formatPrice(dish.price)}`}
                     </span>
                 </div>
                 <p className="menu-dish-ingredients">{dish.ingredients.join(', ')}</p>
