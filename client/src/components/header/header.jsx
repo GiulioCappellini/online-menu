@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import './header.css';
+import Logo from '../../../assets/logo_black.svg';
 
 function Header({ isSidebarOpen, onToggleSidebar, ui }) {
     return (
@@ -16,7 +17,7 @@ function Header({ isSidebarOpen, onToggleSidebar, ui }) {
 
             <div className="menu-header-brand">
                 <div className="menu-header-logo">
-                    <img src='../../../public/assets/logo_black.svg' alt='Logo'></img>
+                    <img src={Logo} alt='Logo'></img>
                 </div>
                 <span className="menu-header-name">Re Ferdinando</span>
             </div>
