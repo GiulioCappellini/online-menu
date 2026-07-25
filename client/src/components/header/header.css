@@ -45,23 +45,16 @@
 }
 
 .menu-header-logo {
-    width: 26px;
-    height: 26px;
-    border-radius: 50%;
-    border: 1px solid var(--vine);
+    width: fit-content;
+    height: fit-content;
     display: flex;
     align-items: center;
     justify-content: center;
     flex: 0 0 auto;
 }
 
-.menu-header-logo span {
-    font-family: 'Playfair Display', serif;
-    font-style: italic;
-    font-weight: 600;
-    font-size: 13px;
-    color: var(--vine);
-    line-height: 1;
+.menu-header-logo img {
+    width: 28px;
 }
 
 .menu-header-name {

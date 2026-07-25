@@ -16,7 +16,7 @@ function Header({ isSidebarOpen, onToggleSidebar, ui }) {
 
             <div className="menu-header-brand">
                 <div className="menu-header-logo">
-                    <span>R</span>
+                    <img src='../../../public/assets/logo_black.svg' alt='Logo'></img>
                 </div>
                 <span className="menu-header-name">Re Ferdinando</span>
             </div>
