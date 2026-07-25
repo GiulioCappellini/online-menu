@@ -272,6 +272,10 @@
     line-height: 1.4;
 }
 
+.no-media {
+    display: none !important;
+}
+
 .menu-dish-media {
     position: relative;
     width: 60px;

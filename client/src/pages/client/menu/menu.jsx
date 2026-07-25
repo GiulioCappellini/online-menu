@@ -49,7 +49,7 @@ function MenuDish({
                     </p>
                 )}
             </div>
-            <div className="menu-dish-media">
+            <div className="menu-dish-media no-media">
                 {dish.image && dish.image !== 'putImageUrl' ? (
                     <img
                         className="menu-dish-image"
