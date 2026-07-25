@@ -4,6 +4,7 @@ import aquiEntraAlergiasJson from '../data/alergies.json';
 const CATEGORY_ICONS = {
     'Seafood starters': 'ti-fish',
     'Land starters': 'ti-meat',
+    'Large salads': 'ti-salad',
     'Seafood first courses': 'ti-anchor',
     'The classics': 'ti-star',
     'Main seafood courses': 'ti-fish',
@@ -14,7 +15,7 @@ const CATEGORY_ICONS = {
     'Desserts': 'ti-ice-cream',
     'Drinks': 'ti-glass',
     'Our bar': 'ti-glass-full',
-    'Large salads': 'ti-salad',
+    'Our Selection of Spirits': 'ti-glass-full'
 };
 
 const UI_STRINGS = {
