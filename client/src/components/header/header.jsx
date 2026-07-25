@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import './header.css';
-import Logo from '../../../assets/logo_black.svg';
+import Logo from '../../../public/assets/logo_black.svg';
 
 function Header({ isSidebarOpen, onToggleSidebar, ui }) {
     return (
