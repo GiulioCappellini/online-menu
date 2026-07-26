@@ -4978,56 +4978,6 @@
                 {
                     "price": 10.0,
                     "image": "putImageUrl",
-                    "allergies": [
-                        "0",
-                        "1"
-                    ],
-                    "translations": {
-                        "pt": {
-                            "name": "nameOfThePlate",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "en": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "it": {
-                            "name": "Rum Zacapa",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "de": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        },
-                        "fr": {
-                            "name": "nameOfThePlatea",
-                            "ingredients": [
-                                "Ingredient",
-                                "Ingredient",
-                                "Ingredient"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "price": 10.0,
-                    "image": "putImageUrl",
                     "allergies": [],
                     "translations": {
                         "pt": {
