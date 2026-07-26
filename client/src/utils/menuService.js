@@ -20,7 +20,7 @@ const CATEGORY_ICONS = {
 
 const UI_STRINGS = {
     pt: {
-        backButton: 'Voltar',
+        backButton: 'Voltar ao prato',
         changeLang: 'PT',
         categories: 'Categorias',
         allAllergies: 'Todas as alergias',
@@ -30,7 +30,7 @@ const UI_STRINGS = {
         zoomImage: 'Ampliar imagem',
     },
     en: {
-        backButton: 'Return',
+        backButton: 'Back to dish',
         changeLang: 'EN',
         categories: 'Categories',
         allAllergies: 'All allergies',
@@ -40,7 +40,7 @@ const UI_STRINGS = {
         zoomImage: 'Zoom image',
     },
     it: {
-        backButton: 'Tornare',
+        backButton: 'Torna al piatto',
         changeLang: 'IT',
         categories: 'Categorie',
         allAllergies: 'Tutte le allergie',
@@ -50,7 +50,7 @@ const UI_STRINGS = {
         zoomImage: 'Ingrandisci immagine',
     },
     fr: {
-        backButton: 'retourner',
+        backButton: 'Retour au plat',
         changeLang: 'FR',
         categories: 'Catégories',
         allAllergies: 'Tous les allergènes',
@@ -60,7 +60,7 @@ const UI_STRINGS = {
         zoomImage: 'Agrandir l’image',
     },
     de: {
-        backButton: 'zurückgehen',
+        backButton: 'Zurück zum Gericht',
         changeLang: 'DE',
         categories: 'Kategorien',
         allAllergies: 'Alle Allergene',
