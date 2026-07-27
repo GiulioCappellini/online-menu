@@ -229,6 +229,14 @@ function Menu() {
                         ))}
                     </ul>
                 </section>
+                <section className="allert">
+                    <p>ATTENZIONE: in caso di allergie o intolleranze alimentari, prima di ordinare, informare il personale preposto.</p>
+                    <p>
+                        I prodotti con asterisco in mancanza dal mercato del fresco possono essere sostituiti con prodotti surgelati,
+                        inoltre le pietanze servite senza previa cottura sono trattati con procedura di abbattimento
+                        secondo la normativa sanitaria vigente(- 20 gradi per almeno 24 ore)
+                    </p>
+                </section>
             </main>
         </div>
     );

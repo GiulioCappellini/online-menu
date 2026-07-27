@@ -401,6 +401,19 @@
     color: var(--coal-smooth);
 }
 
+.allert {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+    padding-top: 20px;
+    color: var(--coal-smooth);
+    font-size: 0.95em;
+    border-top: 0.5px solid var(--line);
+}
+
 @media (prefers-reduced-motion: reduce) {
     .menu-sidebar-item,
     .menu-dish-name,
