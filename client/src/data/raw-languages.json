@@ -29,6 +29,12 @@
             "nativeName": "France",
             "flag": "FR",
             "code": "fr"
+        },
+        {
+            "name": "Español",
+            "nativeName": "España",
+            "flag": "ES",
+            "code": "es"
         }
     ]
 }

@@ -69,6 +69,16 @@ const UI_STRINGS = {
         openMenu: 'Kategorien öffnen',
         zoomImage: 'Bild vergrößern',
     },
+    es: {
+        backButton: 'Volver al plato',
+        changeLang: 'ES',
+        categories: 'Categorías',
+        allAllergies: 'Todos los alérgenos',
+        allergiesLabel: 'Alérgenos',
+        closeMenu: 'Cerrar menú',
+        openMenu: 'Abrir categorías',
+        zoomImage: 'Ampliar imagen',
+    }
 };
 
 function slugify(text) {

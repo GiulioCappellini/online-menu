@@ -7,6 +7,7 @@
                         "it": "Antipasti di mare",
                         "en": "Seafood starters",
                         "pt": "Entradas de frutos do mar",
+                        "es": "Entrantes de mar",
                         "de": "Vorspeisen aus dem Meer",
                         "fr": "Entrées de la mer"
                     }
@@ -41,6 +42,18 @@
                                 "Atum defumado com rúcula e lascas de parmesão",
                                 "Rolinhos de mussarela com peixe-espada",
                                 "Frituras de peixe do pescador"
+                            ]
+                        },
+                        "es": {
+                            "name": "Degustación de mar",
+                            "ingredients": [
+                                "Ensalada de pulpo y patatas",
+                                "Frittata de pescaditos (neonata)",
+                                "Brochetas de gambas",
+                                "Salmón marinado",
+                                "Atún ahumado con rúcula y virutas de parmesano",
+                                "Rollitos de mozzarella con pez espada",
+                                "Fritura del pescador"
                             ]
                         },
                         "en": {
@@ -109,6 +122,12 @@
                                 "Polvo, lula, camarão, mexilhão e amêijoa"
                             ]
                         },
+                        "es": {
+                            "name": "Ensalada de mar",
+                            "ingredients": [
+                                "Pulpo, calamares, gambas, mejillones y almejas"
+                            ]
+                        },
                         "en": {
                             "name": "Seafood salad",
                             "ingredients": [
@@ -163,6 +182,16 @@
                                 "Bacalhau",
                                 "Frittatine (massa frita)",
                                 "Zeppoline (bolinhos fritos)"
+                            ]
+                        },
+                        "es": {
+                            "name": "Copa del Pescador",
+                            "ingredients": [
+                                "Calamares pequeños fritos",
+                                "Gambas",
+                                "Bacalao",
+                                "Frittatine (pasta frita)",
+                                "Zeppoline (buñuelos fritos)"
                             ]
                         },
                         "en": {
@@ -234,6 +263,13 @@
                                 "Caldo branco, pimenta"
                             ]
                         },
+                        "es": {
+                            "name": "Sauté de mariscos",
+                            "ingredients": [
+                                "Guiso blanco con ajo, aceite, mejillones y almejas",
+                                "Pimienta"
+                            ]
+                        },
                         "en": {
                             "name": "Seafood sauté",
                             "ingredients": [
@@ -281,6 +317,14 @@
                                 "Mexilhão, tomate, pimenta",
                                 "Polvo, pão, salsa, alho",
                                 "Polvinhos"
+                            ]
+                        },
+                        "es": {
+                            "name": "Mejillones a la napolitana, con pulpo, langostinos, cigalas y navajas",
+                            "ingredients": [
+                                "Mejillones, tomate, guindilla",
+                                "Pulpo, pan, perejil, ajo",
+                                "Pulpitos"
                             ]
                         },
                         "en": {
@@ -334,6 +378,12 @@
                                 "Mexilhão, tomate, pão, salsa, alho"
                             ]
                         },
+                        "es": {
+                            "name": "Sauté de mejillones",
+                            "ingredients": [
+                                "Mejillones, tomate, pan, perejil, ajo"
+                            ]
+                        },
                         "en": {
                             "name": "Mussel sauté",
                             "ingredients": [
@@ -374,6 +424,12 @@
                             "name": "Mexilhões gratinados",
                             "ingredients": [
                                 "Mexilhão, parmesão, farinha de rosca, salsa, alho, azeite extravirgem"
+                            ]
+                        },
+                        "es": {
+                            "name": "Mejillones gratinados",
+                            "ingredients": [
+                                "Mejillones, parmesano, pan rallado, perejil, ajo, aceite de oliva virgen extra"
                             ]
                         },
                         "en": {
@@ -417,6 +473,12 @@
                                 "Produtos conforme a disponibilidade diária do mercado"
                             ]
                         },
+                        "es": {
+                            "name": "Plateaux Royal",
+                            "ingredients": [
+                                "Productos disponibles según el mercado del día"
+                            ]
+                        },
                         "en": {
                             "name": "Royal platter",
                             "ingredients": [
@@ -454,6 +516,12 @@
                                 "Serviço de mesa"
                             ]
                         },
+                        "es": {
+                            "name": "Cubierto",
+                            "ingredients": [
+                                "Servicio de mesa"
+                            ]
+                        },
                         "en": {
                             "name": "Cover charge",
                             "ingredients": [
@@ -487,6 +555,7 @@
                         "it": "Antipasti di terra",
                         "en": "Land starters",
                         "pt": "Entradas de terra",
+                        "es": "Entrantes de tierra",
                         "de": "Vorspeisen vom Land",
                         "fr": "Entrées de la terre"
                     }
@@ -515,6 +584,12 @@
                             "name": "Seleção de embutidos e queijos",
                             "ingredients": [
                                 "Seleção de queijos e frios"
+                            ]
+                        },
+                        "es": {
+                            "name": "Selección de embutidos y quesos",
+                            "ingredients": [
+                                "Selección de quesos y embutidos"
                             ]
                         },
                         "en": {
@@ -556,6 +631,12 @@
                             "name": "Caprese",
                             "ingredients": [
                                 "Mussarela, tomate, manjericão, azeite extravirgem"
+                            ]
+                        },
+                        "es": {
+                            "name": "Caprese",
+                            "ingredients": [
+                                "Mozzarella, tomate, albahaca, aceite de oliva virgen extra"
                             ]
                         },
                         "en": {
@@ -609,6 +690,13 @@
                             "ingredients": [
                                 "Croquetes, arancini (bolinhos de arroz), frittatine (massa frita)",
                                 "Bolinhas de mussarela, zeppoline, legumes empanados"
+                            ]
+                        },
+                        "es": {
+                            "name": "Fritura italiana",
+                            "ingredients": [
+                                "Croquetas, arancini, frittatine",
+                                "Mozzarella pequeña, zeppoline, verduras rebozadas"
                             ]
                         },
                         "en": {
@@ -667,6 +755,12 @@
                                 "Azeite extravirgem, sal, rúcula, lascas de parmesão"
                             ]
                         },
+                        "es": {
+                            "name": "Carpaccio de black angus ahumado",
+                            "ingredients": [
+                                "Aceite de oliva virgen extra, sal, rúcula, virutas de parmesano"
+                            ]
+                        },
                         "en": {
                             "name": "Smoked black angus carpaccio",
                             "ingredients": [
@@ -702,6 +796,12 @@
                             "name": "Degustação de Presunto Ibérico",
                             "ingredients": [
                                 "Presunto ibérico fatiado à mão"
+                            ]
+                        },
+                        "es": {
+                            "name": "Degustación de Jamón Ibérico",
+                            "ingredients": [
+                                "Jamón Ibérico cortado a mano"
                             ]
                         },
                         "en": {
@@ -758,6 +858,14 @@
                                 "Salmão e manteiga"
                             ]
                         },
+                        "es": {
+                            "name": "Bruschetas de tres sabores",
+                            "ingredients": [
+                                "Tomatitos",
+                                "Grelos y salchicha",
+                                "Salmón y mantequilla"
+                            ]
+                        },
                         "en": {
                             "name": "Bruschetta three ways",
                             "ingredients": [
@@ -799,6 +907,7 @@
                         "it": "Insalatone",
                         "en": "Large salads",
                         "pt": "Saladas grandes",
+                        "es": "Ensaladas grandes",
                         "de": "Große Salate",
                         "fr": "Grandes salades"
                     }
@@ -827,6 +936,12 @@
                             "name": "Salada italiana",
                             "ingredients": [
                                 "Tomate, mix de folhas, azeitonas, alcachofra, rúcula, anchova, atum"
+                            ]
+                        },
+                        "es": {
+                            "name": "Ensalada italiana",
+                            "ingredients": [
+                                "Tomate, ensalada mixta, aceitunas, alcachofas, rúcula, anchoa, atún"
                             ]
                         },
                         "en": {
@@ -881,6 +996,12 @@
                                 "Alface, rúcula, tomate, camarão, atum, mussarela, milho"
                             ]
                         },
+                        "es": {
+                            "name": "Ensalada del Rey",
+                            "ingredients": [
+                                "Ensalada verde, rúcula, tomates, gambas, atún, mozzarella, maíz"
+                            ]
+                        },
                         "en": {
                             "name": "The King's salad",
                             "ingredients": [
@@ -921,6 +1042,12 @@
                                 "Alface, atum, mussarela de búfala"
                             ]
                         },
+                        "es": {
+                            "name": "Ensalada de atún y mozzarella",
+                            "ingredients": [
+                                "Ensalada verde, atún, mozzarella de búfala"
+                            ]
+                        },
                         "en": {
                             "name": "Tuna and mozzarella salad",
                             "ingredients": [
@@ -954,6 +1081,7 @@
                         "it": "Primi piatti di mare",
                         "en": "Seafood first courses",
                         "pt": "Primeiros pratos de frutos do mar",
+                        "es": "Primeros platos de mar",
                         "de": "Erste Gänge mit Meeresfrüchten",
                         "fr": "Entrées de fruits de mer"
                     }
@@ -974,6 +1102,12 @@
                             "name": "Paccheri tre Garibaldi",
                             "ingredients": [
                                 "Tomate fresco, ouriço-do-mar, mexilhão e ovas de peixe curadas (bottarga)"
+                            ]
+                        },
+                        "es": {
+                            "name": "Paccheri tres Garibaldi",
+                            "ingredients": [
+                                "Tomate fresco, pulpa de erizo de mar, mejillones y hueva de mújol"
                             ]
                         },
                         "en": {
@@ -1027,6 +1161,13 @@
                             "ingredients": [
                                 "Espaguete com lagosta fresca",
                                 "Mín. 2 pessoas, preço por porção"
+                            ]
+                        },
+                        "es": {
+                            "name": "Espaguetis con bogavante",
+                            "ingredients": [
+                                "Espaguetis con bogavante fresco",
+                                "Mín. 2 personas, precio por ración"
                             ]
                         },
                         "en": {
@@ -1086,6 +1227,13 @@
                                 "Mín. 2 pessoas, preço por porção"
                             ]
                         },
+                        "es": {
+                            "name": "Risotto de bogavante",
+                            "ingredients": [
+                                "Risotto con bogavante fresco",
+                                "Mín. 2 personas, precio por ración"
+                            ]
+                        },
                         "en": {
                             "name": "Risotto with lobster",
                             "ingredients": [
@@ -1132,6 +1280,12 @@
                             "name": "Nhoque de batata com amêijoas e abobrinha",
                             "ingredients": [
                                 "Azeite, alho, amêijoa, abobrinha, salsa"
+                            ]
+                        },
+                        "es": {
+                            "name": "Ñoquis de patata con almejas y calabacín",
+                            "ingredients": [
+                                "Aceite, ajo, almejas, calabacín, perejil"
                             ]
                         },
                         "en": {
@@ -1186,6 +1340,12 @@
                                 "Trouxinha de pizza recheada com espaguete de frutos do mar"
                             ]
                         },
+                        "es": {
+                            "name": "Plato Re Ferdinando",
+                            "ingredients": [
+                                "Papillote de pizza con espaguetis a la marinera"
+                            ]
+                        },
                         "en": {
                             "name": "Re Ferdinando dish",
                             "ingredients": [
@@ -1228,6 +1388,12 @@
                             "name": "Espaguete com amêijoas e bottarga",
                             "ingredients": [
                                 "Azeite extravirgem, alho, amêijoa, ovas de peixe curadas, salsa"
+                            ]
+                        },
+                        "es": {
+                            "name": "Espaguetis con almejas y hueva de mújol",
+                            "ingredients": [
+                                "Aceite de oliva virgen extra, ajo, almejas, hueva de mújol, perejil"
                             ]
                         },
                         "en": {
@@ -1273,6 +1439,13 @@
                             "ingredients": [
                                 "Mexilhão, lula, tomatinhos, sépia, amêijoa e camarão",
                                 "Mín. 2 pessoas, preço por porção"
+                            ]
+                        },
+                        "es": {
+                            "name": "Risotto del pescador",
+                            "ingredients": [
+                                "Mejillones, calamares, tomatitos, sepia, almejas y gambas",
+                                "Mín. 2 personas, precio por ración"
                             ]
                         },
                         "en": {
@@ -1331,6 +1504,12 @@
                                 "Mexilhão, lula, tomatinhos, sépia, amêijoa e camarão"
                             ]
                         },
+                        "es": {
+                            "name": "Fregula (cuscús sardo) a la marinera",
+                            "ingredients": [
+                                "Mejillones, calamares, tomatitos, sepia, almejas y gambas"
+                            ]
+                        },
                         "en": {
                             "name": "Sardinian fregula with seafood",
                             "ingredients": [
@@ -1364,6 +1543,7 @@
                         "it": "I classici",
                         "en": "The classics",
                         "pt": "Os clássicos",
+                        "es": "Los clásicos",
                         "de": "Die Klassiker",
                         "fr": "Les classiques"
                     }
@@ -1383,6 +1563,12 @@
                             "name": "Nhoque sardo à Gallurese",
                             "ingredients": [
                                 "Azeite extravirgem, linguiça, tomate, parmesão"
+                            ]
+                        },
+                        "es": {
+                            "name": "Ñoquis sardos a la Gallurese",
+                            "ingredients": [
+                                "Aceite de oliva virgen extra, salchicha, tomate, parmesano"
                             ]
                         },
                         "en": {
@@ -1428,6 +1614,12 @@
                                 "Ravioli recheado com ricota de ovelha, tomate, manjericão, parmesão"
                             ]
                         },
+                        "es": {
+                            "name": "Raviolis sardos",
+                            "ingredients": [
+                                "Raviolis con ricotta de oveja, tomate, albahaca, parmesano"
+                            ]
+                        },
                         "en": {
                             "name": "Sardinian ravioli",
                             "ingredients": [
@@ -1469,6 +1661,12 @@
                             "name": "Espaguete com tomatinho pachino e manjericão fresco",
                             "ingredients": [
                                 "Tomatinho pachino, manjericão fresco, azeite extravirgem"
+                            ]
+                        },
+                        "es": {
+                            "name": "Espaguetis con tomate cherry Pachino y albahaca fresca",
+                            "ingredients": [
+                                "Tomatitos Pachino, albahaca fresca, aceite de oliva virgen extra"
                             ]
                         },
                         "en": {
@@ -1514,6 +1712,12 @@
                                 "Tomate, berinjela frita, mussarela e parmesão"
                             ]
                         },
+                        "es": {
+                            "name": "Pennette a la mediterránea",
+                            "ingredients": [
+                                "Tomate, berenjenas fritas, mozzarella y parmesano"
+                            ]
+                        },
                         "en": {
                             "name": "Mediterranean-style pennette",
                             "ingredients": [
@@ -1555,6 +1759,12 @@
                             "name": "Lasanha à bolonhesa",
                             "ingredients": [
                                 "Carne moída, tomate, queijo"
+                            ]
+                        },
+                        "es": {
+                            "name": "Lasaña a la boloñesa",
+                            "ingredients": [
+                                "Carne picada, tomate, queso"
                             ]
                         },
                         "en": {
@@ -1601,6 +1811,12 @@
                                 "Massa, batata, tomate, frutos do mar, queijo"
                             ]
                         },
+                        "es": {
+                            "name": "Pasta y patatas con mariscos",
+                            "ingredients": [
+                                "Pasta, patatas, tomate, mariscos, queso"
+                            ]
+                        },
                         "en": {
                             "name": "Pasta and potatoes with seafood",
                             "ingredients": [
@@ -1645,6 +1861,12 @@
                                 "Espaguete com mexilhão, alho, azeite e salsa"
                             ]
                         },
+                        "es": {
+                            "name": "Espaguetis con mejillones",
+                            "ingredients": [
+                                "Espaguetis con mejillones, ajo, aceite y perejil"
+                            ]
+                        },
                         "en": {
                             "name": "Spaghetti with mussels",
                             "ingredients": [
@@ -1686,6 +1908,12 @@
                             "name": "Espaguete com amêijoas",
                             "ingredients": [
                                 "Espaguete e amêijoa, alho, azeite e salsa"
+                            ]
+                        },
+                        "es": {
+                            "name": "Espaguetis con almejas",
+                            "ingredients": [
+                                "Espaguetis con almejas, ajo, aceite y perejil"
                             ]
                         },
                         "en": {
@@ -1740,6 +1968,12 @@
                                 "Mexilhão, amêijoa, sépia, camarão, lagostim e tomate, azeite extravirgem"
                             ]
                         },
+                        "es": {
+                            "name": "Espaguetis a la marinera",
+                            "ingredients": [
+                                "Mejillones, almejas, sepias, gambas, cigalas y tomate, aceite de oliva virgen extra"
+                            ]
+                        },
                         "en": {
                             "name": "Spaghetti with mixed seafood",
                             "ingredients": [
@@ -1773,6 +2007,7 @@
                         "it": "Secondi piatti di mare",
                         "en": "Main seafood courses",
                         "pt": "Pratos principais de frutos do mar",
+                        "es": "Platos principales de mar",
                         "de": "Hauptgerichte mit Meeresfrüchten",
                         "fr": "Plats principaux de fruits de mer"
                     }
@@ -1794,6 +2029,12 @@
                             "name": "Polvo crocante em dupla cocção com friarielli",
                             "ingredients": [
                                 "Com tomatinhos e brócolis rapini (friarielli)"
+                            ]
+                        },
+                        "es": {
+                            "name": "Pulpo crujiente de doble cocción con grelos",
+                            "ingredients": [
+                                "Con tomatitos y grelos"
                             ]
                         },
                         "en": {
@@ -1841,6 +2082,12 @@
                                 "Atum selado, rúcula, tomatinhos"
                             ]
                         },
+                        "es": {
+                            "name": "Atún en tagliata con rúcula y tomatitos",
+                            "ingredients": [
+                                "Atún sellado, rúcula, tomatitos"
+                            ]
+                        },
                         "en": {
                             "name": "Sliced tuna with arugula and cherry tomatoes",
                             "ingredients": [
@@ -1881,6 +2128,12 @@
                             "name": "Grelhado de peixe e crustáceos",
                             "ingredients": [
                                 "Filé de robalo, camarão, atum, lula e peixe-espada"
+                            ]
+                        },
+                        "es": {
+                            "name": "Parrillada de pescado y mariscos",
+                            "ingredients": [
+                                "Filete de lubina, gambas, atún, calamar y pez espada"
                             ]
                         },
                         "en": {
@@ -1926,6 +2179,12 @@
                                 "Lula e camarão fritos, legumes empanados"
                             ]
                         },
+                        "es": {
+                            "name": "Fritura de calamares y gambas, verduras rebozadas",
+                            "ingredients": [
+                                "Calamares y gambas fritos, verduras rebozadas"
+                            ]
+                        },
                         "en": {
                             "name": "Fried squid and shrimp with battered vegetables",
                             "ingredients": [
@@ -1969,6 +2228,12 @@
                                 "Azeite extravirgem, sal, saladinha do campo"
                             ]
                         },
+                        "es": {
+                            "name": "Pez espada a la parrilla",
+                            "ingredients": [
+                                "Aceite de oliva virgen extra, sal, ensalada silvestre"
+                            ]
+                        },
                         "en": {
                             "name": "Grilled swordfish",
                             "ingredients": [
@@ -2009,6 +2274,12 @@
                             "name": "Robalo ou dourada grelhados com tomate e saladinha fresca",
                             "ingredients": [
                                 "Tomate, saladinha fresca"
+                            ]
+                        },
+                        "es": {
+                            "name": "Lubina o dorada a la parrilla con tomate y ensalada fresca",
+                            "ingredients": [
+                                "Tomate, ensalada fresca"
                             ]
                         },
                         "en": {
@@ -2054,6 +2325,12 @@
                                 "Atum cru cortado à faca, abacate"
                             ]
                         },
+                        "es": {
+                            "name": "Tartar de atún con aguacate",
+                            "ingredients": [
+                                "Atún crudo cortado a cuchillo, aguacate"
+                            ]
+                        },
                         "en": {
                             "name": "Tuna tartare with avocado",
                             "ingredients": [
@@ -2095,6 +2372,13 @@
                             "ingredients": [
                                 "Conforme disponibilidade do mercado local",
                                 "Preço por 100 g"
+                            ]
+                        },
+                        "es": {
+                            "name": "Pescado local del día, preparado a elección",
+                            "ingredients": [
+                                "Según disponibilidad del mercado local",
+                                "Precio por 100 g"
                             ]
                         },
                         "en": {
@@ -2143,6 +2427,12 @@
                                 "Camarão graúdo grelhado"
                             ]
                         },
+                        "es": {
+                            "name": "Langostinos a la parrilla",
+                            "ingredients": [
+                                "Langostinos a la parrilla"
+                            ]
+                        },
                         "en": {
                             "name": "Grilled king prawns",
                             "ingredients": [
@@ -2184,6 +2474,13 @@
                             "ingredients": [
                                 "Azeite, tomate, cebola, vinagre, aipo e salsa",
                                 "Preço por 100 g"
+                            ]
+                        },
+                        "es": {
+                            "name": "Langosta a la catalana",
+                            "ingredients": [
+                                "Aceite, tomate, cebolla, vinagre, apio y perejil",
+                                "Precio por 100 g"
                             ]
                         },
                         "en": {
@@ -2232,6 +2529,12 @@
                                 "Azeite extravirgem, tomate e legumes pequenos"
                             ]
                         },
+                        "es": {
+                            "name": "Filete de salmón en bellavista",
+                            "ingredients": [
+                                "Aceite de oliva virgen extra, tomate y verduritas"
+                            ]
+                        },
                         "en": {
                             "name": "Salmon fillet in bellavista style",
                             "ingredients": [
@@ -2265,6 +2568,7 @@
                         "it": "Secondi piatti di terra",
                         "en": "Main courses with meat",
                         "pt": "Pratos principais de carne",
+                        "es": "Platos principales de carne",
                         "de": "Hauptgerichte mit Fleisch",
                         "fr": "Plats principaux de viande"
                     }
@@ -2287,6 +2591,13 @@
                             "ingredients": [
                                 "Bovino, espetinhos de ovelha, porco, cordeiro",
                                 "Preço para 2 pessoas"
+                            ]
+                        },
+                        "es": {
+                            "name": "Parrillada de carne",
+                            "ingredients": [
+                                "Ternera, arrosticini de ovino, cerdo, cordero",
+                                "Precio para 2 personas"
                             ]
                         },
                         "en": {
@@ -2338,6 +2649,12 @@
                                 "Carne bovina 250g, azeite extravirgem, sal"
                             ]
                         },
+                        "es": {
+                            "name": "Tagliata de ternera con rúcula y tomatitos",
+                            "ingredients": [
+                                "Ternera 250 g, aceite de oliva virgen extra, sal"
+                            ]
+                        },
                         "en": {
                             "name": "Sliced beef with arugula and cherry tomatoes",
                             "ingredients": [
@@ -2381,6 +2698,12 @@
                             "name": "Costeleta de vitela (300 g) com batata frita",
                             "ingredients": [
                                 "Costeleta de vitela 300g, batata frita"
+                            ]
+                        },
+                        "es": {
+                            "name": "Chuleta de ternera (300 g) con patatas fritas",
+                            "ingredients": [
+                                "Chuleta de ternera 300 g, patatas fritas"
                             ]
                         },
                         "en": {
@@ -2428,6 +2751,12 @@
                                 "Queijo grelhado, pão fino sardo (carasau)"
                             ]
                         },
+                        "es": {
+                            "name": "Scamorza a la parrilla con pan carasau",
+                            "ingredients": [
+                                "Queso a la parrilla, pan carasau"
+                            ]
+                        },
                         "en": {
                             "name": "Grilled scamorza cheese with carasau bread",
                             "ingredients": [
@@ -2472,6 +2801,13 @@
                             "ingredients": [
                                 "Com rúcula, lascas de parmesão e tomate",
                                 "Carne bovina 250g, azeite extravirgem, sal"
+                            ]
+                        },
+                        "es": {
+                            "name": "Entrecot fileteado a la plancha",
+                            "ingredients": [
+                                "Con rúcula, virutas de parmesano y tomate",
+                                "Ternera 250 g, aceite de oliva virgen extra, sal"
                             ]
                         },
                         "en": {
@@ -2523,6 +2859,12 @@
                                 "Azeite extravirgem, queijo, berinjela, tomate, manjericão"
                             ]
                         },
+                        "es": {
+                            "name": "Parmigiana de berenjenas",
+                            "ingredients": [
+                                "Aceite de oliva virgen extra, queso, berenjenas, tomate, albahaca"
+                            ]
+                        },
                         "en": {
                             "name": "Aubergine parmigiana",
                             "ingredients": [
@@ -2556,6 +2898,7 @@
                         "it": "Contorni",
                         "en": "Side dishes",
                         "pt": "Acompanhamentos",
+                        "es": "Guarniciones",
                         "de": "Beilagen",
                         "fr": "Accompagnements"
                     }
@@ -2569,6 +2912,12 @@
                             "name": "Salada mista",
                             "ingredients": [
                                 "Salada mista da estação"
+                            ]
+                        },
+                        "es": {
+                            "name": "Ensalada mixta",
+                            "ingredients": [
+                                "Ensalada mixta de temporada"
                             ]
                         },
                         "en": {
@@ -2606,6 +2955,12 @@
                             "name": "Salada verde",
                             "ingredients": [
                                 "Salada verde"
+                            ]
+                        },
+                        "es": {
+                            "name": "Ensalada verde",
+                            "ingredients": [
+                                "Ensalada verde"
                             ]
                         },
                         "en": {
@@ -2647,6 +3002,12 @@
                                 "Batata frita"
                             ]
                         },
+                        "es": {
+                            "name": "Patatas fritas",
+                            "ingredients": [
+                                "Patatas fritas"
+                            ]
+                        },
                         "en": {
                             "name": "French fries",
                             "ingredients": [
@@ -2682,6 +3043,12 @@
                             "name": "Batata assada",
                             "ingredients": [
                                 "Batata assada"
+                            ]
+                        },
+                        "es": {
+                            "name": "Patatas al horno",
+                            "ingredients": [
+                                "Patatas al horno"
                             ]
                         },
                         "en": {
@@ -2721,6 +3088,12 @@
                                 "Legumes da estação grelhados"
                             ]
                         },
+                        "es": {
+                            "name": "Verduras a la parrilla",
+                            "ingredients": [
+                                "Verduras de temporada a la parrilla"
+                            ]
+                        },
                         "en": {
                             "name": "Grilled vegetables",
                             "ingredients": [
@@ -2758,6 +3131,12 @@
                                 "Tomate e rúcula"
                             ]
                         },
+                        "es": {
+                            "name": "Ensalada de tomate y rúcula",
+                            "ingredients": [
+                                "Tomate y rúcula"
+                            ]
+                        },
                         "en": {
                             "name": "Tomato and arugula salad",
                             "ingredients": [
@@ -2791,6 +3170,7 @@
                         "it": "Pizze",
                         "en": "Pizzas",
                         "pt": "Pizzas",
+                        "es": "Pizzas",
                         "de": "Pizzen",
                         "fr": "Pizzas"
                     }
@@ -2819,6 +3199,12 @@
                             "name": "Margherita",
                             "ingredients": [
                                 "Tomate, mussarela, manjericão"
+                            ]
+                        },
+                        "es": {
+                            "name": "Margarita",
+                            "ingredients": [
+                                "Tomate, mozzarella, albahaca"
                             ]
                         },
                         "en": {
@@ -2873,6 +3259,12 @@
                                 "Tomate, orégano, alho"
                             ]
                         },
+                        "es": {
+                            "name": "Marinera",
+                            "ingredients": [
+                                "Tomate, orégano, ajo"
+                            ]
+                        },
                         "en": {
                             "name": "Marinara",
                             "ingredients": [
@@ -2923,6 +3315,12 @@
                             "name": "Cosacca",
                             "ingredients": [
                                 "Tomate, parmesão ralado, azeite e manjericão"
+                            ]
+                        },
+                        "es": {
+                            "name": "Cosacca",
+                            "ingredients": [
+                                "Tomate, parmesano reggiano rallado, aceite y albahaca"
                             ]
                         },
                         "en": {
@@ -2977,6 +3375,12 @@
                                 "Tomate, mussarela, orégano, anchova, alcaparras"
                             ]
                         },
+                        "es": {
+                            "name": "Bella Napoli",
+                            "ingredients": [
+                                "Tomate, mozzarella, orégano, anchoas, alcaparras"
+                            ]
+                        },
                         "en": {
                             "name": "Bella Napoli",
                             "ingredients": [
@@ -3027,6 +3431,12 @@
                             "name": "Sarda",
                             "ingredients": [
                                 "Tomate, quatro queijos, linguiça curada"
+                            ]
+                        },
+                        "es": {
+                            "name": "Sarda",
+                            "ingredients": [
+                                "Tomate, cuatro quesos, salchicha curada"
                             ]
                         },
                         "en": {
@@ -3081,6 +3491,12 @@
                                 "Mussarela fior di latte, mortadela, azeite e manjericão"
                             ]
                         },
+                        "es": {
+                            "name": "Ghiotta",
+                            "ingredients": [
+                                "Fior di latte, mortadela, aceite y albahaca"
+                            ]
+                        },
                         "en": {
                             "name": "Ghiotta",
                             "ingredients": [
@@ -3131,6 +3547,12 @@
                             "name": "Capricciosa",
                             "ingredients": [
                                 "Tomate, mussarela, cogumelos, alcachofra, presunto cozido, azeitonas"
+                            ]
+                        },
+                        "es": {
+                            "name": "Capricciosa",
+                            "ingredients": [
+                                "Tomate, mozzarella, champiñones, alcachofas, jamón cocido, aceitunas"
                             ]
                         },
                         "en": {
@@ -3185,6 +3607,12 @@
                                 "Tomate, ricota, mussarela, presunto cozido"
                             ]
                         },
+                        "es": {
+                            "name": "Calzone",
+                            "ingredients": [
+                                "Tomate, ricotta, mozzarella, jamón cocido"
+                            ]
+                        },
                         "en": {
                             "name": "Calzone",
                             "ingredients": [
@@ -3235,6 +3663,12 @@
                             "name": "Ortolana",
                             "ingredients": [
                                 "Mussarela, azeitonas, cogumelos, berinjela, abobrinha, brócolis rapini"
+                            ]
+                        },
+                        "es": {
+                            "name": "Ortolana",
+                            "ingredients": [
+                                "Mozzarella, aceitunas, champiñones, berenjenas, calabacín, grelos"
                             ]
                         },
                         "en": {
@@ -3289,6 +3723,12 @@
                                 "Tomate, mussarela, presunto cozido, salsicha"
                             ]
                         },
+                        "es": {
+                            "name": "Tedesca",
+                            "ingredients": [
+                                "Tomate, mozzarella, jamón cocido, salchicha"
+                            ]
+                        },
                         "en": {
                             "name": "Tedesca",
                             "ingredients": [
@@ -3339,6 +3779,12 @@
                             "name": "Quatro estações",
                             "ingredients": [
                                 "Tomate, mussarela, alcachofra, cogumelos, presunto cozido, salsicha"
+                            ]
+                        },
+                        "es": {
+                            "name": "Cuatro estaciones",
+                            "ingredients": [
+                                "Tomate, mozzarella, alcachofas, champiñones, jamón cocido, salchicha"
                             ]
                         },
                         "en": {
@@ -3393,6 +3839,12 @@
                                 "Tomate, mussarela, salame picante"
                             ]
                         },
+                        "es": {
+                            "name": "Diavola",
+                            "ingredients": [
+                                "Tomate, mozzarella, salami picante"
+                            ]
+                        },
                         "en": {
                             "name": "Diavola",
                             "ingredients": [
@@ -3443,6 +3895,12 @@
                             "name": "Caprese",
                             "ingredients": [
                                 "Tomate em fatias, mussarela, manjericão"
+                            ]
+                        },
+                        "es": {
+                            "name": "Caprese",
+                            "ingredients": [
+                                "Tomate en filetes, mozzarella, albahaca"
                             ]
                         },
                         "en": {
@@ -3497,6 +3955,12 @@
                                 "Linguiça fresca, mussarela, manjericão, brócolis rapini"
                             ]
                         },
+                        "es": {
+                            "name": "Napule è",
+                            "ingredients": [
+                                "Salchicha fresca, mozzarella, albahaca, grelos"
+                            ]
+                        },
                         "en": {
                             "name": "Napule è",
                             "ingredients": [
@@ -3547,6 +4011,12 @@
                             "name": "Super pizza",
                             "ingredients": [
                                 "Tomate, mussarela, presunto cru, rúcula, parmesão"
+                            ]
+                        },
+                        "es": {
+                            "name": "Súper pizza",
+                            "ingredients": [
+                                "Tomate, mozzarella, jamón crudo, rúcula, parmesano"
                             ]
                         },
                         "en": {
@@ -3601,6 +4071,12 @@
                                 "Tomate, mussarela, sépia, mexilhão, camarão graúdo, pinças de caranguejo"
                             ]
                         },
+                        "es": {
+                            "name": "Marenostrum",
+                            "ingredients": [
+                                "Tomate, mozzarella, sepias, mejillones, langostinos, pinzas de cangrejo"
+                            ]
+                        },
                         "en": {
                             "name": "Marenostrum",
                             "ingredients": [
@@ -3651,6 +4127,12 @@
                             "name": "Salmonata",
                             "ingredients": [
                                 "Mussarela, salmão defumado, rúcula"
+                            ]
+                        },
+                        "es": {
+                            "name": "Salmonata",
+                            "ingredients": [
+                                "Mozzarella, salmón ahumado, rúcula"
                             ]
                         },
                         "en": {
@@ -3705,6 +4187,12 @@
                                 "Tomate, mussarela, camarão, rúcula, lascas de parmesão"
                             ]
                         },
+                        "es": {
+                            "name": "Smeraldina",
+                            "ingredients": [
+                                "Tomate, mozzarella, gambas, rúcula, virutas de parmesano"
+                            ]
+                        },
                         "en": {
                             "name": "Smeraldina",
                             "ingredients": [
@@ -3738,6 +4226,7 @@
                         "it": "Pizze gourmet",
                         "en": "Gourmet pizzas",
                         "pt": "Pizzas gourmet",
+                        "es": "Pizzas gourmet",
                         "de": "Gourmet-Pizzen",
                         "fr": "Pizzas gastronomiques"
                     }
@@ -3767,6 +4256,13 @@
                             "ingredients": [
                                 "1/2 pizza margherita com presunto cru",
                                 "1/2 pizza calzone com ricota"
+                            ]
+                        },
+                        "es": {
+                            "name": "Gourmet Magnifica",
+                            "ingredients": [
+                                "1/2 pizza margarita con jamón crudo",
+                                "1/2 pizza calzone con ricotta"
                             ]
                         },
                         "en": {
@@ -3825,6 +4321,12 @@
                                 "Tomate, mussarela, sete sabores surpresa"
                             ]
                         },
+                        "es": {
+                            "name": "Re Ferdinando",
+                            "ingredients": [
+                                "Tomate, mozzarella, siete sabores sorpresa"
+                            ]
+                        },
                         "en": {
                             "name": "Re Ferdinando",
                             "ingredients": [
@@ -3858,6 +4360,7 @@
                         "it": "Desserts",
                         "en": "Desserts",
                         "pt": "Sobremesas",
+                        "es": "Postres",
                         "de": "Desserts",
                         "fr": "Desserts"
                     }
@@ -3886,6 +4389,12 @@
                             "name": "Babà",
                             "ingredients": [
                                 "Babà de rum, bolo levedado embebido em rum"
+                            ]
+                        },
+                        "es": {
+                            "name": "Babá",
+                            "ingredients": [
+                                "Babá al ron, dulce de masa fermentada empapado en ron"
                             ]
                         },
                         "en": {
@@ -3940,6 +4449,12 @@
                                 "Torta de trigo e ricota aromatizada com cítricos"
                             ]
                         },
+                        "es": {
+                            "name": "Pastiera napolitana",
+                            "ingredients": [
+                                "Tarta de trigo y ricotta aromatizada con cítricos"
+                            ]
+                        },
                         "en": {
                             "name": "Neapolitan pastiera",
                             "ingredients": [
@@ -3990,6 +4505,12 @@
                             "name": "Caprese",
                             "ingredients": [
                                 "Bolo de chocolate com amêndoas"
+                            ]
+                        },
+                        "es": {
+                            "name": "Caprese",
+                            "ingredients": [
+                                "Tarta de chocolate y almendras"
                             ]
                         },
                         "en": {
@@ -4044,6 +4565,12 @@
                                 "Massa frita recheada com queijo, servida com mel"
                             ]
                         },
+                        "es": {
+                            "name": "Seadas",
+                            "ingredients": [
+                                "Raviolis fritos rellenos de queso con miel"
+                            ]
+                        },
                         "en": {
                             "name": "Seadas",
                             "ingredients": [
@@ -4094,6 +4621,12 @@
                             "name": "Tiramisù",
                             "ingredients": [
                                 "Biscoito champagne, café, mascarpone e cacau"
+                            ]
+                        },
+                        "es": {
+                            "name": "Tiramisú",
+                            "ingredients": [
+                                "Bizcochos de soletilla, café, mascarpone y cacao"
                             ]
                         },
                         "en": {
@@ -4148,6 +4681,12 @@
                                 "Creme de baunilha com crosta de açúcar caramelizado"
                             ]
                         },
+                        "es": {
+                            "name": "Crema catalana",
+                            "ingredients": [
+                                "Crema de vainilla con costra de azúcar caramelizado"
+                            ]
+                        },
                         "en": {
                             "name": "Crema catalana",
                             "ingredients": [
@@ -4198,6 +4737,12 @@
                             "name": "Panna cotta",
                             "ingredients": [
                                 "Sobremesa de creme com calda de frutas vermelhas"
+                            ]
+                        },
+                        "es": {
+                            "name": "Panna cotta",
+                            "ingredients": [
+                                "Postre de nata con coulis de frutos del bosque"
                             ]
                         },
                         "en": {
@@ -4252,6 +4797,12 @@
                                 "Abacaxi fresco decorado"
                             ]
                         },
+                        "es": {
+                            "name": "Fantasía de piña",
+                            "ingredients": [
+                                "Piña fresca decorada"
+                            ]
+                        },
                         "en": {
                             "name": "Pineapple fantasy",
                             "ingredients": [
@@ -4304,6 +4855,12 @@
                                 "Três sabores de sorvete à escolha"
                             ]
                         },
+                        "es": {
+                            "name": "Copa de helado 3 sabores",
+                            "ingredients": [
+                                "Tres sabores de helado a elección"
+                            ]
+                        },
                         "en": {
                             "name": "Ice cream cup, 3 flavours",
                             "ingredients": [
@@ -4337,6 +4894,7 @@
                         "it": "Bevande",
                         "en": "Drinks",
                         "pt": "Bebidas",
+                        "es": "Bebidas",
                         "de": "Getränke",
                         "fr": "Boissons"
                     }
@@ -4350,6 +4908,12 @@
                             "name": "Água mineral com ou sem gás, 0,75 l",
                             "ingredients": [
                                 "Água natural ou com gás, 0,75 l"
+                            ]
+                        },
+                        "es": {
+                            "name": "Agua mineral con o sin gas, 0,75 l",
+                            "ingredients": [
+                                "Agua natural o con gas, 0,75 l"
                             ]
                         },
                         "en": {
@@ -4389,6 +4953,12 @@
                                 "Suco de fruta"
                             ]
                         },
+                        "es": {
+                            "name": "Zumo de fruta",
+                            "ingredients": [
+                                "Zumo de fruta"
+                            ]
+                        },
                         "en": {
                             "name": "Fruit juice",
                             "ingredients": [
@@ -4424,6 +4994,12 @@
                             "name": "Refrigerantes",
                             "ingredients": [
                                 "Refrigerantes"
+                            ]
+                        },
+                        "es": {
+                            "name": "Refrescos",
+                            "ingredients": [
+                                "Refrescos"
                             ]
                         },
                         "en": {
@@ -4465,6 +5041,12 @@
                                 "Cerveja de chope, 20 cl"
                             ]
                         },
+                        "es": {
+                            "name": "Cerveza de barril, 20 cl",
+                            "ingredients": [
+                                "Cerveza de barril, 20 cl"
+                            ]
+                        },
                         "en": {
                             "name": "Draught beer 20 cl",
                             "ingredients": [
@@ -4502,6 +5084,12 @@
                             "name": "Cerveja de chope, 40 cl",
                             "ingredients": [
                                 "Cerveja de chope, 40 cl"
+                            ]
+                        },
+                        "es": {
+                            "name": "Cerveza de barril, 40 cl",
+                            "ingredients": [
+                                "Cerveza de barril, 40 cl"
                             ]
                         },
                         "en": {
@@ -4543,6 +5131,12 @@
                                 "Cerveja de chope, 50 cl"
                             ]
                         },
+                        "es": {
+                            "name": "Cerveza de barril, 50 cl",
+                            "ingredients": [
+                                "Cerveza de barril, 50 cl"
+                            ]
+                        },
                         "en": {
                             "name": "Draught beer 50 cl",
                             "ingredients": [
@@ -4580,6 +5174,12 @@
                             "name": "Jarra de cerveja de chope, 1 l",
                             "ingredients": [
                                 "Jarra de cerveja de chope, 1 l"
+                            ]
+                        },
+                        "es": {
+                            "name": "Jarra de cerveza de barril, 1 l",
+                            "ingredients": [
+                                "Jarra de cerveza de barril, 1 l"
                             ]
                         },
                         "en": {
@@ -4621,6 +5221,12 @@
                                 "Cerveja sarda não filtrada, 33 cl"
                             ]
                         },
+                        "es": {
+                            "name": "Ichnusa sin filtrar, 33 cl",
+                            "ingredients": [
+                                "Cerveza sarda sin filtrar, 33 cl"
+                            ]
+                        },
                         "en": {
                             "name": "Ichnusa unfiltered 33 cl",
                             "ingredients": [
@@ -4658,6 +5264,12 @@
                             "name": "Vinho da casa branco ou tinto, jarra de 0,25 l",
                             "ingredients": [
                                 "Vinho branco ou tinto, jarra de 0,25 l"
+                            ]
+                        },
+                        "es": {
+                            "name": "Vino de la casa blanco o tinto, jarra de 0,25 l",
+                            "ingredients": [
+                                "Vino de la casa blanco o tinto, jarra de 0,25 l"
                             ]
                         },
                         "en": {
@@ -4699,6 +5311,12 @@
                                 "Vinho branco ou tinto, jarra de 0,50 l"
                             ]
                         },
+                        "es": {
+                            "name": "Vino de la casa blanco o tinto, jarra de 0,50 l",
+                            "ingredients": [
+                                "Vino de la casa blanco o tinto, jarra de 0,50 l"
+                            ]
+                        },
                         "en": {
                             "name": "House wine, white or red, 0.50 l carafe",
                             "ingredients": [
@@ -4736,6 +5354,12 @@
                             "name": "Vinho da casa branco ou tinto, jarra de 1 l",
                             "ingredients": [
                                 "Vinho branco ou tinto, jarra de 1 l"
+                            ]
+                        },
+                        "es": {
+                            "name": "Vino de la casa blanco o tinto, jarra de 1 l",
+                            "ingredients": [
+                                "Vino de la casa blanco o tinto, jarra de 1 l"
                             ]
                         },
                         "en": {
@@ -4777,6 +5401,12 @@
                                 "Vermentino di Gallura Superiore da casa, 1 l"
                             ]
                         },
+                        "es": {
+                            "name": "Vermentino di Gallura Superiore de la casa, 1 l",
+                            "ingredients": [
+                                "Vermentino di Gallura Superiore de la casa, 1 l"
+                            ]
+                        },
                         "en": {
                             "name": "House Vermentino di Gallura Superiore, 1 l",
                             "ingredients": [
@@ -4810,6 +5440,7 @@
                         "it": "Il nostro bar",
                         "en": "Our bar",
                         "pt": "Nosso bar",
+                        "es": "Nuestro bar",
                         "de": "Unsere Bar",
                         "fr": "Notre bar"
                     }
@@ -4820,6 +5451,12 @@
                     "allergies": [],
                     "translations": {
                         "pt": {
+                            "name": "Café",
+                            "ingredients": [
+                                "Café espresso"
+                            ]
+                        },
+                        "es": {
                             "name": "Café",
                             "ingredients": [
                                 "Café espresso"
@@ -4864,6 +5501,12 @@
                                 "Cappuccino, chá, camomila ou infusão à escolha"
                             ]
                         },
+                        "es": {
+                            "name": "Capuchino, té, manzanilla e infusiones",
+                            "ingredients": [
+                                "Capuchino, té, manzanilla o infusión a elección"
+                            ]
+                        },
                         "en": {
                             "name": "Cappuccino, tea, camomile or herbal infusions",
                             "ingredients": [
@@ -4899,6 +5542,12 @@
                             "name": "Amaro e licores",
                             "ingredients": [
                                 "Amaro ou licor à escolha"
+                            ]
+                        },
+                        "es": {
+                            "name": "Amargos y licores",
+                            "ingredients": [
+                                "Amargo o licor a elección"
                             ]
                         },
                         "en": {
@@ -4938,6 +5587,12 @@
                                 "Destilado ou grappa à escolha"
                             ]
                         },
+                        "es": {
+                            "name": "Destilados comunes y grappas",
+                            "ingredients": [
+                                "Destilado o grappa a elección"
+                            ]
+                        },
                         "en": {
                             "name": "House spirits & grappa",
                             "ingredients": [
@@ -4971,6 +5626,7 @@
                         "it": "La nostra selezione di Distillati",
                         "en": "Our Selection of Spirits",
                         "pt": "Nossa seleção de destilados",
+                        "es": "Nuestra selección de licores",
                         "de": "Unsere Auswahi an Spirituosen",
                         "fr": "Notre Sélection de spiritueux"
                     }
@@ -4984,6 +5640,12 @@
                             "name": "Rum Zacapa",
                             "ingredients": [
                                 "Rum envelhecido Zacapa"
+                            ]
+                        },
+                        "es": {
+                            "name": "Ron Zacapa",
+                            "ingredients": [
+                                "Ron añejo Zacapa"
                             ]
                         },
                         "en": {
@@ -5025,6 +5687,12 @@
                                 "Grappa Poli envelhecida em barris de Sassicaia"
                             ]
                         },
+                        "es": {
+                            "name": "Grappa 'Barili di Sassicaia' Poli",
+                            "ingredients": [
+                                "Grappa Poli añejada en barricas de Sassicaia"
+                            ]
+                        },
                         "en": {
                             "name": "Grappa 'Barili di Sassicaia' Poli",
                             "ingredients": [
@@ -5059,6 +5727,12 @@
                     ],
                     "translations": {
                         "pt": {
+                            "name": "Grappa Grancuvée B. Tosolini",
+                            "ingredients": [
+                                "Grappa Grancuvée Tosolini"
+                            ]
+                        },
+                        "es": {
                             "name": "Grappa Grancuvée B. Tosolini",
                             "ingredients": [
                                 "Grappa Grancuvée Tosolini"
@@ -5103,6 +5777,12 @@
                                 "Grappa de Nebbiolo, Berta Tre Soli Tre"
                             ]
                         },
+                        "es": {
+                            "name": "Grappa di Nebbiolo Tre Soli Tre Berta",
+                            "ingredients": [
+                                "Grappa de Nebbiolo, Berta Tre Soli Tre"
+                            ]
+                        },
                         "en": {
                             "name": "Grappa di Nebbiolo Tre Soli Tre Berta",
                             "ingredients": [
@@ -5137,6 +5817,12 @@
                     ],
                     "translations": {
                         "pt": {
+                            "name": "Grappa di Amarone 'Marzadro'",
+                            "ingredients": [
+                                "Grappa de Amarone Marzadro"
+                            ]
+                        },
+                        "es": {
                             "name": "Grappa di Amarone 'Marzadro'",
                             "ingredients": [
                                 "Grappa de Amarone Marzadro"
@@ -5181,6 +5867,12 @@
                                 "Grappa de Gewürztraminer"
                             ]
                         },
+                        "es": {
+                            "name": "Grappa di Gewürztraminer",
+                            "ingredients": [
+                                "Grappa de Gewürztraminer"
+                            ]
+                        },
                         "en": {
                             "name": "Grappa di Gewürztraminer",
                             "ingredients": [
@@ -5220,6 +5912,12 @@
                                 "Grappa Mazzetti com ouro 24 quilates"
                             ]
                         },
+                        "es": {
+                            "name": "Grappa Mazzetti Oro 24 carati",
+                            "ingredients": [
+                                "Grappa Mazzetti con oro de 24 quilates"
+                            ]
+                        },
                         "en": {
                             "name": "Grappa Mazzetti Oro 24 carati",
                             "ingredients": [
@@ -5257,6 +5955,12 @@
                                 "Uísque escocês Whyte and Mackay"
                             ]
                         },
+                        "es": {
+                            "name": "Scotch whisky Whyte and Mackay",
+                            "ingredients": [
+                                "Whisky escocés Whyte and Mackay"
+                            ]
+                        },
                         "en": {
                             "name": "Scotch whisky Whyte and Mackay",
                             "ingredients": [
@@ -5292,6 +5996,7 @@
                 "it": "Allergie",
                 "en": "Allergies",
                 "pt": "Alergias",
+                "es": "Alergias",
                 "de": "Allergene",
                 "fr": "Allergènes"
             }
