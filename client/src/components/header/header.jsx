@@ -26,7 +26,7 @@ function Header({ isSidebarOpen, onToggleSidebar, ui }) {
                 to="/select-language"
                 className="menu-button-code"
             >
-                {ui.changeLang}
+                {ui.Lang}
             </Link>
         </header>
     );
