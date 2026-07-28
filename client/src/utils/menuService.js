@@ -21,7 +21,7 @@ const CATEGORY_ICONS = {
 const UI_STRINGS = {
     pt: {
         backButton: 'Voltar ao prato',
-        changeLang: 'PT',
+        Lang: 'PT',
         categories: 'Categorias',
         allAllergies: 'Todas as alergias',
         allergiesLabel: 'Alergias',
@@ -31,7 +31,7 @@ const UI_STRINGS = {
     },
     en: {
         backButton: 'Back to dish',
-        changeLang: 'EN',
+        Lang: 'EN',
         categories: 'Categories',
         allAllergies: 'All allergies',
         allergiesLabel: 'Allergies',
@@ -41,7 +41,7 @@ const UI_STRINGS = {
     },
     it: {
         backButton: 'Torna al piatto',
-        changeLang: 'IT',
+        Lang: 'IT',
         categories: 'Categorie',
         allAllergies: 'Tutte le allergie',
         allergiesLabel: 'Allergie',
@@ -51,7 +51,7 @@ const UI_STRINGS = {
     },
     fr: {
         backButton: 'Retour au plat',
-        changeLang: 'FR',
+        Lang: 'FR',
         categories: 'Catégories',
         allAllergies: 'Tous les allergènes',
         allergiesLabel: 'Allergènes',
@@ -61,7 +61,7 @@ const UI_STRINGS = {
     },
     de: {
         backButton: 'Zurück zum Gericht',
-        changeLang: 'DE',
+        Lang: 'DE',
         categories: 'Kategorien',
         allAllergies: 'Alle Allergene',
         allergiesLabel: 'Allergene',
@@ -71,7 +71,7 @@ const UI_STRINGS = {
     },
     es: {
         backButton: 'Volver al plato',
-        changeLang: 'ES',
+        Lang: 'ES',
         categories: 'Categorías',
         allAllergies: 'Todos los alérgenos',
         allergiesLabel: 'Alérgenos',
