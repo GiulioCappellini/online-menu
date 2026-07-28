@@ -14,7 +14,6 @@ function MenuDish({
     formatPrice,
     onScroll
 }) {
-
     return (
         <article className="menu-dish">
             <div className="menu-dish-body">
@@ -27,7 +26,7 @@ function MenuDish({
                     <button
                         type="button"
                         className="menu-dish-name"
-                        onClick={onToggleItalian}
+                        onClick={ui.Lang !== 'IT' ? onToggleItalian : undefined}
                     >
                         {dish.name}
                     </button>
