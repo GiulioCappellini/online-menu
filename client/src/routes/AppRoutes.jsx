@@ -16,11 +16,11 @@ function AppRoutes() {
     
     return (
         <Routes>
-            <Route path="/" element={isSupported ? <Navigate to={`/menu/${browserLang}`} /> : <SelectLanguage />} />
+            <Route path="/Re-Ferdinando" element={isSupported ? <Navigate to={`/menu/${browserLang}`} /> : <SelectLanguage />} />
 
-            <Route path="/select-language" element={<SelectLanguage />} />
+            <Route path="/Re-Ferdinando/select-language" element={<SelectLanguage />} />
 
-            <Route path='/menu/:lang' element={<Menu />} />
+            <Route path='/Re-Ferdinando/menu/:lang' element={<Menu />} />
             
             <Route path="*" element={<NotFound />} />
         </Routes>
