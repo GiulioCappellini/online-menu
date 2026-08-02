@@ -16,7 +16,7 @@ function AppRoutes() {
     
     return (
         <Routes>
-            <Route path="/Re-Ferdinando" element={isSupported ? <Navigate to={`Re-Ferdinando/menu/${browserLang}`} /> : <SelectLanguage />} />
+            <Route path="/Re-Ferdinando" element={isSupported ? <Navigate to={`/menu/${browserLang}`} /> : <SelectLanguage />} />
 
             <Route path="/Re-Ferdinando/select-language" element={<SelectLanguage />} />
 
