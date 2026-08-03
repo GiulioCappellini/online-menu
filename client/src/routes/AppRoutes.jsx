@@ -1,5 +1,5 @@
 // Importing dependences
-import { Routes, Route, Navigate } from 'react-router-dom';
+import { Routes, Route, Navigate, useParams } from 'react-router-dom';
 
 // Importing datas
 import languagesData from '../data/raw-languages.json';
@@ -9,6 +9,13 @@ import Menu from '../pages/client/menu/menu.jsx';
 import SelectLanguage from '../pages/client/select-language/select-language.jsx';
 import NotFound from '../pages/client/not-found/not-found.jsx';
 
+function RedirectToMenu({ isSupported, browserLang }) {
+    const { slug } = useParams();
+
+    if (!isSupported) {return <SelectLanguage />};
+    return <Navigate to={`/${slug}/menu/${browserLang}`} replace />;
+};
+
 function AppRoutes() {
     const browserLang = navigator.language?.slice(0, 2);
     const supported = languagesData.languages.map((l) => l.code);
@@ -16,11 +23,11 @@ function AppRoutes() {
     
     return (
         <Routes>
-            <Route path="/Re-Ferdinando" element={isSupported ? <Navigate to={`/menu/${browserLang}`} /> : <SelectLanguage />} />
+            <Route path="/:slug" element={<RedirectToMenu isSupported={isSupported} browserLang={browserLang} />} />
 
-            <Route path="/Re-Ferdinando/select-language" element={<SelectLanguage />} />
+            <Route path="/:slug/select-language" element={<SelectLanguage />} />
 
-            <Route path='/Re-Ferdinando/menu/:lang' element={<Menu />} />
+            <Route path='/:slug/menu/:lang' element={<Menu />} />
             
             <Route path="*" element={<NotFound />} />
         </Routes>
