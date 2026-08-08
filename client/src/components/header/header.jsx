@@ -1,8 +1,9 @@
-import { Link } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 import './header.css';
 import Logo from '../../../public/assets/logo_black.svg';
 
 function Header({ isSidebarOpen, onToggleSidebar, ui }) {
+    const { slug } = useParams();
     return (
         <header className="menu-header">
             <button
@@ -23,7 +24,7 @@ function Header({ isSidebarOpen, onToggleSidebar, ui }) {
             </div>
 
             <Link 
-                to="/select-language"
+                to={`/${slug}/select-language/`}
                 className="menu-button-code"
             >
                 {ui.Lang}

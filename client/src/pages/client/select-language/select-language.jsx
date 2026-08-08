@@ -1,6 +1,6 @@
 // Importing dependences
 import { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useParams } from 'react-router-dom';
 
 // Importing Utils
 import organizeList from '../../../utils/organizeObjLists.js';
@@ -15,6 +15,7 @@ const languages = organizeList(languagesData.languages);
 
 function SelectLanguages() {
     const [selected, setSelected] = useState('');
+    const { slug } = useParams();
 
     return (
         <>
@@ -25,7 +26,7 @@ function SelectLanguages() {
                 <nav>
                     {languages.map((language => (
                         <Link
-                            to={`../menu/${language.code}`}
+                            to={`/${slug}/menu/${language.code}`}
                             key={language.code}
                             onClick={() => {
                                 setSelected(language.code);

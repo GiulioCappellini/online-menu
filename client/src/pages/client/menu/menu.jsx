@@ -2,6 +2,7 @@ import { useMemo, useState, useRef } from 'react';
 import { useParams } from 'react-router-dom';
 
 import Header from '../../../components/header/header.jsx';
+
 import getMenuData from '../../../utils/menuService.js';
 
 import './menu.css';
@@ -71,14 +72,12 @@ function MenuDish({
 function Menu() {
     const { lang } = useParams();
 
+
     const [isSidebarOpen, setIsSidebarOpen] = useState(false);
     const [activeDishId, setActiveDishId] = useState(null);
     const [activeCategorySlug, setActiveCategorySlug] = useState(null);
 
-    const menuData = useMemo(
-        () => getMenuData(lang),
-        [lang]
-    );
+    const menuData = useMemo(() => getMenuData(lang), [lang]);
 
     const { 
         categories, 

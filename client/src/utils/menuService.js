@@ -1,5 +1,5 @@
-import aquiEntraOJson from '../data/menu.json';
-import aquiEntraAlergiasJson from '../data/alergies.json';
+import menuData from '../data/menu.json';
+import alergiesData from '../data/alergies.json';
 
 const CATEGORY_ICONS = {
     'Seafood starters': 'ti-fish',
@@ -86,7 +86,7 @@ function slugify(text) {
         .toLowerCase()
         .replace(/[^a-z0-9]+/g, '-')
         .replace(/(^-|-$)/g, '');
-}
+};
 
 function parseCategories(items, lang) {
     if (!items?.length) return [];
@@ -117,11 +117,9 @@ function parseCategories(items, lang) {
 }
 
 function parseAllergiesLegend(lang) {
-    const allergiesBlock = aquiEntraAlergiasJson.Alergies?.[0];
+    const allergiesBlock = alergiesData.Alergies?.[0];
 
-    if (!allergiesBlock) {
-        return { title: '', items: [] };
-    }
+    if (!allergiesBlock) {return { title: '', items: [] };}
 
     const title = allergiesBlock['translations-tittle']?.[lang] ?? 'Allergies';
     const items = Object.entries(allergiesBlock)
@@ -142,7 +140,7 @@ export function getMenuData(lang) {
     const safeLang = UI_STRINGS[lang] ? lang : 'en';
 
     return {
-        categories: parseCategories(aquiEntraOJson.items, safeLang),
+        categories: parseCategories(menuData.items, safeLang),
         allergiesLegend: parseAllergiesLegend(safeLang),
         ui: UI_STRINGS[safeLang],
         formatPrice,
