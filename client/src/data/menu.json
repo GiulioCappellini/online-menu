@@ -2697,37 +2697,37 @@
                         "pt": {
                             "name": "Costeleta de vitela (300 g) com batata frita",
                             "ingredients": [
-                                "Costeleta de vitela 300g, batata frita"
+                                "Costeleta de vitela empanada 300g, batata frita"
                             ]
                         },
                         "es": {
                             "name": "Chuleta de ternera (300 g) con patatas fritas",
                             "ingredients": [
-                                "Chuleta de ternera 300 g, patatas fritas"
+                                "Chuleta de ternera empanada 300 g, patatas fritas"
                             ]
                         },
                         "en": {
                             "name": "Veal cutlet (300 g) with fries",
                             "ingredients": [
-                                "Veal cutlet 300g, French fries"
+                                "Breaded veal cutlet 300g, French fries"
                             ]
                         },
                         "it": {
                             "name": "Cotoletta di Vitello (300 gr) con Patate fritte",
                             "ingredients": [
-                                "Cotoletta di vitello 300gr, patate fritte"
+                                "Cotoletta di vitello impanata 300gr, patate fritte"
                             ]
                         },
                         "de": {
                             "name": "Kalbsschnitzel (300 g) mit Pommes frites",
                             "ingredients": [
-                                "Kalbsschnitzel 300g, Pommes frites"
+                                "Paniertes Kalbsschnitzel 300g, Pommes frites"
                             ]
                         },
                         "fr": {
                             "name": "Escalope de veau (300 g) avec frites",
                             "ingredients": [
-                                "Escalope de veau 300g, frites"
+                                "Escalope de veau 300g panée, frites"
                             ]
                         }
                     }
